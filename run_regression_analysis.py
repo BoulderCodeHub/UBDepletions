@@ -30,6 +30,8 @@ predictions_pre1989, predictions_post1989, errors_pre1989, errors_post1989, rsqu
 
 # Plot historical regressions
 print('plot historical figures')
+if not os.path.isdir('figures'):
+  os.mkdir('figures')
 ubdplt.plot_historical_regression(predictions, r2, independents, dependent)
 ubdplt.plot_historical_regression_multiperiod(predictions_pre1989, predictions_post1989, rsquared_vals, independents, dependent, historical_split_date)
 ubdplt.plot_historical_errors(errors, errors_pre1989, errors_post1989, independents, dependent)
