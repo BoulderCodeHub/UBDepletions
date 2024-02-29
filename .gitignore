@@ -1,0 +1,10 @@
+### Python ###
+# .html files
+*.html
+
+# .rdf files
+*.rdf
+
+# figures folder
+/figures/*.png
+

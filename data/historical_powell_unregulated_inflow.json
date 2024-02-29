@@ -1,0 +1,3624 @@
+{
+  "data": [
+    {
+      "datetime": "1963-10-01T00:00:00",
+      "value": "250848.902",
+      "flag": null
+    },
+    {
+      "datetime": "1963-11-01T00:00:00",
+      "value": "309665.171",
+      "flag": null
+    },
+    {
+      "datetime": "1963-12-01T00:00:00",
+      "value": "225622.453",
+      "flag": null
+    },
+    {
+      "datetime": "1964-01-01T00:00:00",
+      "value": "217606.989",
+      "flag": null
+    },
+    {
+      "datetime": "1964-02-01T00:00:00",
+      "value": "230973.856",
+      "flag": null
+    },
+    {
+      "datetime": "1964-03-01T00:00:00",
+      "value": "280873.703",
+      "flag": null
+    },
+    {
+      "datetime": "1964-04-01T00:00:00",
+      "value": "524276.056",
+      "flag": null
+    },
+    {
+      "datetime": "1964-05-01T00:00:00",
+      "value": "1641163.57",
+      "flag": null
+    },
+    {
+      "datetime": "1964-06-01T00:00:00",
+      "value": "2081361.86",
+      "flag": null
+    },
+    {
+      "datetime": "1964-07-01T00:00:00",
+      "value": "960907.639",
+      "flag": null
+    },
+    {
+      "datetime": "1964-08-01T00:00:00",
+      "value": "550127.252",
+      "flag": null
+    },
+    {
+      "datetime": "1964-09-01T00:00:00",
+      "value": "218183.157",
+      "flag": null
+    },
+    {
+      "datetime": "1964-10-01T00:00:00",
+      "value": "210996.013",
+      "flag": null
+    },
+    {
+      "datetime": "1964-11-01T00:00:00",
+      "value": "287841.262",
+      "flag": null
+    },
+    {
+      "datetime": "1964-12-01T00:00:00",
+      "value": "344688.073",
+      "flag": null
+    },
+    {
+      "datetime": "1965-01-01T00:00:00",
+      "value": "364753.508",
+      "flag": null
+    },
+    {
+      "datetime": "1965-02-01T00:00:00",
+      "value": "356196.931",
+      "flag": null
+    },
+    {
+      "datetime": "1965-03-01T00:00:00",
+      "value": "411412.379",
+      "flag": null
+    },
+    {
+      "datetime": "1965-04-01T00:00:00",
+      "value": "1181850.85",
+      "flag": null
+    },
+    {
+      "datetime": "1965-05-01T00:00:00",
+      "value": "2763740.95",
+      "flag": null
+    },
+    {
+      "datetime": "1965-06-01T00:00:00",
+      "value": "4261978.77",
+      "flag": null
+    },
+    {
+      "datetime": "1965-07-01T00:00:00",
+      "value": "2938994.02",
+      "flag": null
+    },
+    {
+      "datetime": "1965-08-01T00:00:00",
+      "value": "1168174.53",
+      "flag": null
+    },
+    {
+      "datetime": "1965-09-01T00:00:00",
+      "value": "755818.463",
+      "flag": null
+    },
+    {
+      "datetime": "1965-10-01T00:00:00",
+      "value": "819733.89",
+      "flag": null
+    },
+    {
+      "datetime": "1965-11-01T00:00:00",
+      "value": "621303.712",
+      "flag": null
+    },
+    {
+      "datetime": "1965-12-01T00:00:00",
+      "value": "553038.183",
+      "flag": null
+    },
+    {
+      "datetime": "1966-01-01T00:00:00",
+      "value": "434577.341",
+      "flag": null
+    },
+    {
+      "datetime": "1966-02-01T00:00:00",
+      "value": "377253.176",
+      "flag": null
+    },
+    {
+      "datetime": "1966-03-01T00:00:00",
+      "value": "886010.641",
+      "flag": null
+    },
+    {
+      "datetime": "1966-04-01T00:00:00",
+      "value": "1115466.85",
+      "flag": null
+    },
+    {
+      "datetime": "1966-05-01T00:00:00",
+      "value": "1768073.17",
+      "flag": null
+    },
+    {
+      "datetime": "1966-06-01T00:00:00",
+      "value": "1173175.25",
+      "flag": null
+    },
+    {
+      "datetime": "1966-07-01T00:00:00",
+      "value": "435040.626",
+      "flag": null
+    },
+    {
+      "datetime": "1966-08-01T00:00:00",
+      "value": "265032.67",
+      "flag": null
+    },
+    {
+      "datetime": "1966-09-01T00:00:00",
+      "value": "240232.56",
+      "flag": null
+    },
+    {
+      "datetime": "1966-10-01T00:00:00",
+      "value": "312410.485",
+      "flag": null
+    },
+    {
+      "datetime": "1966-11-01T00:00:00",
+      "value": "331934.168",
+      "flag": null
+    },
+    {
+      "datetime": "1966-12-01T00:00:00",
+      "value": "374748.919",
+      "flag": null
+    },
+    {
+      "datetime": "1967-01-01T00:00:00",
+      "value": "288620.373",
+      "flag": null
+    },
+    {
+      "datetime": "1967-02-01T00:00:00",
+      "value": "322039.243",
+      "flag": null
+    },
+    {
+      "datetime": "1967-03-01T00:00:00",
+      "value": "529542.164",
+      "flag": null
+    },
+    {
+      "datetime": "1967-04-01T00:00:00",
+      "value": "515991.875",
+      "flag": null
+    },
+    {
+      "datetime": "1967-05-01T00:00:00",
+      "value": "1218690.12",
+      "flag": null
+    },
+    {
+      "datetime": "1967-06-01T00:00:00",
+      "value": "2934465.37",
+      "flag": null
+    },
+    {
+      "datetime": "1967-07-01T00:00:00",
+      "value": "1419652.84",
+      "flag": null
+    },
+    {
+      "datetime": "1967-08-01T00:00:00",
+      "value": "466181.053",
+      "flag": null
+    },
+    {
+      "datetime": "1967-09-01T00:00:00",
+      "value": "264831.007",
+      "flag": null
+    },
+    {
+      "datetime": "1967-10-01T00:00:00",
+      "value": "253824.633",
+      "flag": null
+    },
+    {
+      "datetime": "1967-11-01T00:00:00",
+      "value": "353912.66",
+      "flag": null
+    },
+    {
+      "datetime": "1967-12-01T00:00:00",
+      "value": "269743.189",
+      "flag": null
+    },
+    {
+      "datetime": "1968-01-01T00:00:00",
+      "value": "301070.379",
+      "flag": null
+    },
+    {
+      "datetime": "1968-02-01T00:00:00",
+      "value": "375280.975",
+      "flag": null
+    },
+    {
+      "datetime": "1968-03-01T00:00:00",
+      "value": "485418.321",
+      "flag": null
+    },
+    {
+      "datetime": "1968-04-01T00:00:00",
+      "value": "612568.506",
+      "flag": null
+    },
+    {
+      "datetime": "1968-05-01T00:00:00",
+      "value": "1579162.34",
+      "flag": null
+    },
+    {
+      "datetime": "1968-06-01T00:00:00",
+      "value": "3579302.06",
+      "flag": null
+    },
+    {
+      "datetime": "1968-07-01T00:00:00",
+      "value": "1101301.18",
+      "flag": null
+    },
+    {
+      "datetime": "1968-08-01T00:00:00",
+      "value": "1054095.17",
+      "flag": null
+    },
+    {
+      "datetime": "1968-09-01T00:00:00",
+      "value": "353255.726",
+      "flag": null
+    },
+    {
+      "datetime": "1968-10-01T00:00:00",
+      "value": "395231.875",
+      "flag": null
+    },
+    {
+      "datetime": "1968-11-01T00:00:00",
+      "value": "422380.723",
+      "flag": null
+    },
+    {
+      "datetime": "1968-12-01T00:00:00",
+      "value": "335945.788",
+      "flag": null
+    },
+    {
+      "datetime": "1969-01-01T00:00:00",
+      "value": "435600.643",
+      "flag": null
+    },
+    {
+      "datetime": "1969-02-01T00:00:00",
+      "value": "388337.114",
+      "flag": null
+    },
+    {
+      "datetime": "1969-03-01T00:00:00",
+      "value": "514584.104",
+      "flag": null
+    },
+    {
+      "datetime": "1969-04-01T00:00:00",
+      "value": "1657471.87",
+      "flag": null
+    },
+    {
+      "datetime": "1969-05-01T00:00:00",
+      "value": "2739080.21",
+      "flag": null
+    },
+    {
+      "datetime": "1969-06-01T00:00:00",
+      "value": "2279205.08",
+      "flag": null
+    },
+    {
+      "datetime": "1969-07-01T00:00:00",
+      "value": "1336979.8",
+      "flag": null
+    },
+    {
+      "datetime": "1969-08-01T00:00:00",
+      "value": "497725.484",
+      "flag": null
+    },
+    {
+      "datetime": "1969-09-01T00:00:00",
+      "value": "517876.985",
+      "flag": null
+    },
+    {
+      "datetime": "1969-10-01T00:00:00",
+      "value": "726043.371",
+      "flag": null
+    },
+    {
+      "datetime": "1969-11-01T00:00:00",
+      "value": "562212.44",
+      "flag": null
+    },
+    {
+      "datetime": "1969-12-01T00:00:00",
+      "value": "443456.814",
+      "flag": null
+    },
+    {
+      "datetime": "1970-01-01T00:00:00",
+      "value": "338992.476",
+      "flag": null
+    },
+    {
+      "datetime": "1970-02-01T00:00:00",
+      "value": "333202.298",
+      "flag": null
+    },
+    {
+      "datetime": "1970-03-01T00:00:00",
+      "value": "390525.777",
+      "flag": null
+    },
+    {
+      "datetime": "1970-04-01T00:00:00",
+      "value": "511234.044",
+      "flag": null
+    },
+    {
+      "datetime": "1970-05-01T00:00:00",
+      "value": "2710591.56",
+      "flag": null
+    },
+    {
+      "datetime": "1970-06-01T00:00:00",
+      "value": "3163034.06",
+      "flag": null
+    },
+    {
+      "datetime": "1970-07-01T00:00:00",
+      "value": "1332023.42",
+      "flag": null
+    },
+    {
+      "datetime": "1970-08-01T00:00:00",
+      "value": "497935.624",
+      "flag": null
+    },
+    {
+      "datetime": "1970-09-01T00:00:00",
+      "value": "982516.723",
+      "flag": null
+    },
+    {
+      "datetime": "1970-10-01T00:00:00",
+      "value": "580985.706",
+      "flag": null
+    },
+    {
+      "datetime": "1970-11-01T00:00:00",
+      "value": "512778.664",
+      "flag": null
+    },
+    {
+      "datetime": "1970-12-01T00:00:00",
+      "value": "431888.263",
+      "flag": null
+    },
+    {
+      "datetime": "1971-01-01T00:00:00",
+      "value": "421741.416",
+      "flag": null
+    },
+    {
+      "datetime": "1971-02-01T00:00:00",
+      "value": "465100.509",
+      "flag": null
+    },
+    {
+      "datetime": "1971-03-01T00:00:00",
+      "value": "507298.105",
+      "flag": null
+    },
+    {
+      "datetime": "1971-04-01T00:00:00",
+      "value": "1201580.04",
+      "flag": null
+    },
+    {
+      "datetime": "1971-05-01T00:00:00",
+      "value": "1897773.87",
+      "flag": null
+    },
+    {
+      "datetime": "1971-06-01T00:00:00",
+      "value": "3183506.61",
+      "flag": null
+    },
+    {
+      "datetime": "1971-07-01T00:00:00",
+      "value": "1625978.04",
+      "flag": null
+    },
+    {
+      "datetime": "1971-08-01T00:00:00",
+      "value": "529165.068",
+      "flag": null
+    },
+    {
+      "datetime": "1971-09-01T00:00:00",
+      "value": "440036.795",
+      "flag": null
+    },
+    {
+      "datetime": "1971-10-01T00:00:00",
+      "value": "575872.767",
+      "flag": null
+    },
+    {
+      "datetime": "1971-11-01T00:00:00",
+      "value": "541209.999",
+      "flag": null
+    },
+    {
+      "datetime": "1971-12-01T00:00:00",
+      "value": "468866.074",
+      "flag": null
+    },
+    {
+      "datetime": "1972-01-01T00:00:00",
+      "value": "452841.962",
+      "flag": null
+    },
+    {
+      "datetime": "1972-02-01T00:00:00",
+      "value": "437561.308",
+      "flag": null
+    },
+    {
+      "datetime": "1972-03-01T00:00:00",
+      "value": "754574.012",
+      "flag": null
+    },
+    {
+      "datetime": "1972-04-01T00:00:00",
+      "value": "636357.242",
+      "flag": null
+    },
+    {
+      "datetime": "1972-05-01T00:00:00",
+      "value": "1334471.28",
+      "flag": null
+    },
+    {
+      "datetime": "1972-06-01T00:00:00",
+      "value": "2711120.74",
+      "flag": null
+    },
+    {
+      "datetime": "1972-07-01T00:00:00",
+      "value": "726826.21",
+      "flag": null
+    },
+    {
+      "datetime": "1972-08-01T00:00:00",
+      "value": "323953.242",
+      "flag": null
+    },
+    {
+      "datetime": "1972-09-01T00:00:00",
+      "value": "364822.043",
+      "flag": null
+    },
+    {
+      "datetime": "1972-10-01T00:00:00",
+      "value": "1104402.53",
+      "flag": null
+    },
+    {
+      "datetime": "1972-11-01T00:00:00",
+      "value": "649454.754",
+      "flag": null
+    },
+    {
+      "datetime": "1972-12-01T00:00:00",
+      "value": "454023.5",
+      "flag": null
+    },
+    {
+      "datetime": "1973-01-01T00:00:00",
+      "value": "423239.793",
+      "flag": null
+    },
+    {
+      "datetime": "1973-02-01T00:00:00",
+      "value": "492544.048",
+      "flag": null
+    },
+    {
+      "datetime": "1973-03-01T00:00:00",
+      "value": "812844.132",
+      "flag": null
+    },
+    {
+      "datetime": "1973-04-01T00:00:00",
+      "value": "1240008.11",
+      "flag": null
+    },
+    {
+      "datetime": "1973-05-01T00:00:00",
+      "value": "3864412.7",
+      "flag": null
+    },
+    {
+      "datetime": "1973-06-01T00:00:00",
+      "value": "3830427.52",
+      "flag": null
+    },
+    {
+      "datetime": "1973-07-01T00:00:00",
+      "value": "2076635.54",
+      "flag": null
+    },
+    {
+      "datetime": "1973-08-01T00:00:00",
+      "value": "589279.02",
+      "flag": null
+    },
+    {
+      "datetime": "1973-09-01T00:00:00",
+      "value": "436372.148",
+      "flag": null
+    },
+    {
+      "datetime": "1973-10-01T00:00:00",
+      "value": "433255.522",
+      "flag": null
+    },
+    {
+      "datetime": "1973-11-01T00:00:00",
+      "value": "438847.095",
+      "flag": null
+    },
+    {
+      "datetime": "1973-12-01T00:00:00",
+      "value": "390638.979",
+      "flag": null
+    },
+    {
+      "datetime": "1974-01-01T00:00:00",
+      "value": "376867.001",
+      "flag": null
+    },
+    {
+      "datetime": "1974-02-01T00:00:00",
+      "value": "359050.135",
+      "flag": null
+    },
+    {
+      "datetime": "1974-03-01T00:00:00",
+      "value": "719762.054",
+      "flag": null
+    },
+    {
+      "datetime": "1974-04-01T00:00:00",
+      "value": "757201.299",
+      "flag": null
+    },
+    {
+      "datetime": "1974-05-01T00:00:00",
+      "value": "2623725.92",
+      "flag": null
+    },
+    {
+      "datetime": "1974-06-01T00:00:00",
+      "value": "2382570.31",
+      "flag": null
+    },
+    {
+      "datetime": "1974-07-01T00:00:00",
+      "value": "938002.346",
+      "flag": null
+    },
+    {
+      "datetime": "1974-08-01T00:00:00",
+      "value": "349072.065",
+      "flag": null
+    },
+    {
+      "datetime": "1974-09-01T00:00:00",
+      "value": "201153.51",
+      "flag": null
+    },
+    {
+      "datetime": "1974-10-01T00:00:00",
+      "value": "349930.391",
+      "flag": null
+    },
+    {
+      "datetime": "1974-11-01T00:00:00",
+      "value": "466673.341",
+      "flag": null
+    },
+    {
+      "datetime": "1974-12-01T00:00:00",
+      "value": "296656.599",
+      "flag": null
+    },
+    {
+      "datetime": "1975-01-01T00:00:00",
+      "value": "325316.896",
+      "flag": null
+    },
+    {
+      "datetime": "1975-02-01T00:00:00",
+      "value": "348653.314",
+      "flag": null
+    },
+    {
+      "datetime": "1975-03-01T00:00:00",
+      "value": "558242.237",
+      "flag": null
+    },
+    {
+      "datetime": "1975-04-01T00:00:00",
+      "value": "725067.187",
+      "flag": null
+    },
+    {
+      "datetime": "1975-05-01T00:00:00",
+      "value": "2185719.45",
+      "flag": null
+    },
+    {
+      "datetime": "1975-06-01T00:00:00",
+      "value": "3682447.31",
+      "flag": null
+    },
+    {
+      "datetime": "1975-07-01T00:00:00",
+      "value": "3103212.76",
+      "flag": null
+    },
+    {
+      "datetime": "1975-08-01T00:00:00",
+      "value": "652284.625",
+      "flag": null
+    },
+    {
+      "datetime": "1975-09-01T00:00:00",
+      "value": "401294.716",
+      "flag": null
+    },
+    {
+      "datetime": "1975-10-01T00:00:00",
+      "value": "359028.889",
+      "flag": null
+    },
+    {
+      "datetime": "1975-11-01T00:00:00",
+      "value": "431622.278",
+      "flag": null
+    },
+    {
+      "datetime": "1975-12-01T00:00:00",
+      "value": "393752.843",
+      "flag": null
+    },
+    {
+      "datetime": "1976-01-01T00:00:00",
+      "value": "308245.717",
+      "flag": null
+    },
+    {
+      "datetime": "1976-02-01T00:00:00",
+      "value": "445081.552",
+      "flag": null
+    },
+    {
+      "datetime": "1976-03-01T00:00:00",
+      "value": "548645.148",
+      "flag": null
+    },
+    {
+      "datetime": "1976-04-01T00:00:00",
+      "value": "680464.102",
+      "flag": null
+    },
+    {
+      "datetime": "1976-05-01T00:00:00",
+      "value": "1819559.03",
+      "flag": null
+    },
+    {
+      "datetime": "1976-06-01T00:00:00",
+      "value": "1976753.07",
+      "flag": null
+    },
+    {
+      "datetime": "1976-07-01T00:00:00",
+      "value": "765013.071",
+      "flag": null
+    },
+    {
+      "datetime": "1976-08-01T00:00:00",
+      "value": "390080.905",
+      "flag": null
+    },
+    {
+      "datetime": "1976-09-01T00:00:00",
+      "value": "312762.875",
+      "flag": null
+    },
+    {
+      "datetime": "1976-10-01T00:00:00",
+      "value": "380083.427",
+      "flag": null
+    },
+    {
+      "datetime": "1976-11-01T00:00:00",
+      "value": "359745.076",
+      "flag": null
+    },
+    {
+      "datetime": "1976-12-01T00:00:00",
+      "value": "265611.06",
+      "flag": null
+    },
+    {
+      "datetime": "1977-01-01T00:00:00",
+      "value": "270551.847",
+      "flag": null
+    },
+    {
+      "datetime": "1977-02-01T00:00:00",
+      "value": "276057.718",
+      "flag": null
+    },
+    {
+      "datetime": "1977-03-01T00:00:00",
+      "value": "239238.815",
+      "flag": null
+    },
+    {
+      "datetime": "1977-04-01T00:00:00",
+      "value": "245487.751",
+      "flag": null
+    },
+    {
+      "datetime": "1977-05-01T00:00:00",
+      "value": "306050.803",
+      "flag": null
+    },
+    {
+      "datetime": "1977-06-01T00:00:00",
+      "value": "407559.25",
+      "flag": null
+    },
+    {
+      "datetime": "1977-07-01T00:00:00",
+      "value": "248834.761",
+      "flag": null
+    },
+    {
+      "datetime": "1977-08-01T00:00:00",
+      "value": "283025.117",
+      "flag": null
+    },
+    {
+      "datetime": "1977-09-01T00:00:00",
+      "value": "246394.787",
+      "flag": null
+    },
+    {
+      "datetime": "1977-10-01T00:00:00",
+      "value": "249467.542",
+      "flag": null
+    },
+    {
+      "datetime": "1977-11-01T00:00:00",
+      "value": "282739.746",
+      "flag": null
+    },
+    {
+      "datetime": "1977-12-01T00:00:00",
+      "value": "284225.81",
+      "flag": null
+    },
+    {
+      "datetime": "1978-01-01T00:00:00",
+      "value": "322519.474",
+      "flag": null
+    },
+    {
+      "datetime": "1978-02-01T00:00:00",
+      "value": "300813.812",
+      "flag": null
+    },
+    {
+      "datetime": "1978-03-01T00:00:00",
+      "value": "563581.719",
+      "flag": null
+    },
+    {
+      "datetime": "1978-04-01T00:00:00",
+      "value": "1086150.27",
+      "flag": null
+    },
+    {
+      "datetime": "1978-05-01T00:00:00",
+      "value": "2089099.96",
+      "flag": null
+    },
+    {
+      "datetime": "1978-06-01T00:00:00",
+      "value": "3576834.03",
+      "flag": null
+    },
+    {
+      "datetime": "1978-07-01T00:00:00",
+      "value": "1679739.87",
+      "flag": null
+    },
+    {
+      "datetime": "1978-08-01T00:00:00",
+      "value": "370718.64",
+      "flag": null
+    },
+    {
+      "datetime": "1978-09-01T00:00:00",
+      "value": "253413.211",
+      "flag": null
+    },
+    {
+      "datetime": "1978-10-01T00:00:00",
+      "value": "305719.494",
+      "flag": null
+    },
+    {
+      "datetime": "1978-11-01T00:00:00",
+      "value": "482791.061",
+      "flag": null
+    },
+    {
+      "datetime": "1978-12-01T00:00:00",
+      "value": "386035.881",
+      "flag": null
+    },
+    {
+      "datetime": "1979-01-01T00:00:00",
+      "value": "376336.978",
+      "flag": null
+    },
+    {
+      "datetime": "1979-02-01T00:00:00",
+      "value": "407551.957",
+      "flag": null
+    },
+    {
+      "datetime": "1979-03-01T00:00:00",
+      "value": "778328.965",
+      "flag": null
+    },
+    {
+      "datetime": "1979-04-01T00:00:00",
+      "value": "1655210.75",
+      "flag": null
+    },
+    {
+      "datetime": "1979-05-01T00:00:00",
+      "value": "3144288.45",
+      "flag": null
+    },
+    {
+      "datetime": "1979-06-01T00:00:00",
+      "value": "4042332.32",
+      "flag": null
+    },
+    {
+      "datetime": "1979-07-01T00:00:00",
+      "value": "1794854.79",
+      "flag": null
+    },
+    {
+      "datetime": "1979-08-01T00:00:00",
+      "value": "527784.867",
+      "flag": null
+    },
+    {
+      "datetime": "1979-09-01T00:00:00",
+      "value": "287835.092",
+      "flag": null
+    },
+    {
+      "datetime": "1979-10-01T00:00:00",
+      "value": "292862.732",
+      "flag": null
+    },
+    {
+      "datetime": "1979-11-01T00:00:00",
+      "value": "402964.561",
+      "flag": null
+    },
+    {
+      "datetime": "1979-12-01T00:00:00",
+      "value": "323926.183",
+      "flag": null
+    },
+    {
+      "datetime": "1980-01-01T00:00:00",
+      "value": "420983.609",
+      "flag": null
+    },
+    {
+      "datetime": "1980-02-01T00:00:00",
+      "value": "571369.245",
+      "flag": null
+    },
+    {
+      "datetime": "1980-03-01T00:00:00",
+      "value": "619419.749",
+      "flag": null
+    },
+    {
+      "datetime": "1980-04-01T00:00:00",
+      "value": "1252886.83",
+      "flag": null
+    },
+    {
+      "datetime": "1980-05-01T00:00:00",
+      "value": "3664122.93",
+      "flag": null
+    },
+    {
+      "datetime": "1980-06-01T00:00:00",
+      "value": "4041076.62",
+      "flag": null
+    },
+    {
+      "datetime": "1980-07-01T00:00:00",
+      "value": "1339598.93",
+      "flag": null
+    },
+    {
+      "datetime": "1980-08-01T00:00:00",
+      "value": "270771.442",
+      "flag": null
+    },
+    {
+      "datetime": "1980-09-01T00:00:00",
+      "value": "481870.227",
+      "flag": null
+    },
+    {
+      "datetime": "1980-10-01T00:00:00",
+      "value": "310203.022",
+      "flag": null
+    },
+    {
+      "datetime": "1980-11-01T00:00:00",
+      "value": "395231.933",
+      "flag": null
+    },
+    {
+      "datetime": "1980-12-01T00:00:00",
+      "value": "408753.588",
+      "flag": null
+    },
+    {
+      "datetime": "1981-01-01T00:00:00",
+      "value": "306767.003",
+      "flag": null
+    },
+    {
+      "datetime": "1981-02-01T00:00:00",
+      "value": "272295.354",
+      "flag": null
+    },
+    {
+      "datetime": "1981-03-01T00:00:00",
+      "value": "351601.401",
+      "flag": null
+    },
+    {
+      "datetime": "1981-04-01T00:00:00",
+      "value": "412205.658",
+      "flag": null
+    },
+    {
+      "datetime": "1981-05-01T00:00:00",
+      "value": "738357.524",
+      "flag": null
+    },
+    {
+      "datetime": "1981-06-01T00:00:00",
+      "value": "1381795.39",
+      "flag": null
+    },
+    {
+      "datetime": "1981-07-01T00:00:00",
+      "value": "490298.543",
+      "flag": null
+    },
+    {
+      "datetime": "1981-08-01T00:00:00",
+      "value": "207746.866",
+      "flag": null
+    },
+    {
+      "datetime": "1981-09-01T00:00:00",
+      "value": "363392.064",
+      "flag": null
+    },
+    {
+      "datetime": "1981-10-01T00:00:00",
+      "value": "573350.867",
+      "flag": null
+    },
+    {
+      "datetime": "1981-11-01T00:00:00",
+      "value": "407822.046",
+      "flag": null
+    },
+    {
+      "datetime": "1981-12-01T00:00:00",
+      "value": "318621.758",
+      "flag": null
+    },
+    {
+      "datetime": "1982-01-01T00:00:00",
+      "value": "281474.903",
+      "flag": null
+    },
+    {
+      "datetime": "1982-02-01T00:00:00",
+      "value": "380941.113",
+      "flag": null
+    },
+    {
+      "datetime": "1982-03-01T00:00:00",
+      "value": "643799.027",
+      "flag": null
+    },
+    {
+      "datetime": "1982-04-01T00:00:00",
+      "value": "906614.693",
+      "flag": null
+    },
+    {
+      "datetime": "1982-05-01T00:00:00",
+      "value": "2398774.21",
+      "flag": null
+    },
+    {
+      "datetime": "1982-06-01T00:00:00",
+      "value": "3016705.23",
+      "flag": null
+    },
+    {
+      "datetime": "1982-07-01T00:00:00",
+      "value": "1883654.32",
+      "flag": null
+    },
+    {
+      "datetime": "1982-08-01T00:00:00",
+      "value": "1131132.5",
+      "flag": null
+    },
+    {
+      "datetime": "1982-09-01T00:00:00",
+      "value": "828346.397",
+      "flag": null
+    },
+    {
+      "datetime": "1982-10-01T00:00:00",
+      "value": "846846.596",
+      "flag": null
+    },
+    {
+      "datetime": "1982-11-01T00:00:00",
+      "value": "667499.526",
+      "flag": null
+    },
+    {
+      "datetime": "1982-12-01T00:00:00",
+      "value": "543587.931",
+      "flag": null
+    },
+    {
+      "datetime": "1983-01-01T00:00:00",
+      "value": "449517.969",
+      "flag": null
+    },
+    {
+      "datetime": "1983-02-01T00:00:00",
+      "value": "469146.649",
+      "flag": null
+    },
+    {
+      "datetime": "1983-03-01T00:00:00",
+      "value": "1001971.83",
+      "flag": null
+    },
+    {
+      "datetime": "1983-04-01T00:00:00",
+      "value": "1130723.6",
+      "flag": null
+    },
+    {
+      "datetime": "1983-05-01T00:00:00",
+      "value": "3205093.85",
+      "flag": null
+    },
+    {
+      "datetime": "1983-06-01T00:00:00",
+      "value": "6659475.56",
+      "flag": null
+    },
+    {
+      "datetime": "1983-07-01T00:00:00",
+      "value": "3547502.42",
+      "flag": null
+    },
+    {
+      "datetime": "1983-08-01T00:00:00",
+      "value": "1287898.2",
+      "flag": null
+    },
+    {
+      "datetime": "1983-09-01T00:00:00",
+      "value": "561351.069",
+      "flag": null
+    },
+    {
+      "datetime": "1983-10-01T00:00:00",
+      "value": "716369.009",
+      "flag": null
+    },
+    {
+      "datetime": "1983-11-01T00:00:00",
+      "value": "595529.257",
+      "flag": null
+    },
+    {
+      "datetime": "1983-12-01T00:00:00",
+      "value": "541219.498",
+      "flag": null
+    },
+    {
+      "datetime": "1984-01-01T00:00:00",
+      "value": "397410.447",
+      "flag": null
+    },
+    {
+      "datetime": "1984-02-01T00:00:00",
+      "value": "479559.822",
+      "flag": null
+    },
+    {
+      "datetime": "1984-03-01T00:00:00",
+      "value": "760604.881",
+      "flag": null
+    },
+    {
+      "datetime": "1984-04-01T00:00:00",
+      "value": "1522855.9",
+      "flag": null
+    },
+    {
+      "datetime": "1984-05-01T00:00:00",
+      "value": "5429266.41",
+      "flag": null
+    },
+    {
+      "datetime": "1984-06-01T00:00:00",
+      "value": "5687991.89",
+      "flag": null
+    },
+    {
+      "datetime": "1984-07-01T00:00:00",
+      "value": "2676005.99",
+      "flag": null
+    },
+    {
+      "datetime": "1984-08-01T00:00:00",
+      "value": "1376890.19",
+      "flag": null
+    },
+    {
+      "datetime": "1984-09-01T00:00:00",
+      "value": "661973.555",
+      "flag": null
+    },
+    {
+      "datetime": "1984-10-01T00:00:00",
+      "value": "881921.1",
+      "flag": null
+    },
+    {
+      "datetime": "1984-11-01T00:00:00",
+      "value": "691690.871",
+      "flag": null
+    },
+    {
+      "datetime": "1984-12-01T00:00:00",
+      "value": "540378.464",
+      "flag": null
+    },
+    {
+      "datetime": "1985-01-01T00:00:00",
+      "value": "539647.055",
+      "flag": null
+    },
+    {
+      "datetime": "1985-02-01T00:00:00",
+      "value": "455704.529",
+      "flag": null
+    },
+    {
+      "datetime": "1985-03-01T00:00:00",
+      "value": "1141305.73",
+      "flag": null
+    },
+    {
+      "datetime": "1985-04-01T00:00:00",
+      "value": "2707601.54",
+      "flag": null
+    },
+    {
+      "datetime": "1985-05-01T00:00:00",
+      "value": "4366758.34",
+      "flag": null
+    },
+    {
+      "datetime": "1985-06-01T00:00:00",
+      "value": "3799560.16",
+      "flag": null
+    },
+    {
+      "datetime": "1985-07-01T00:00:00",
+      "value": "1331472.22",
+      "flag": null
+    },
+    {
+      "datetime": "1985-08-01T00:00:00",
+      "value": "553740.893",
+      "flag": null
+    },
+    {
+      "datetime": "1985-09-01T00:00:00",
+      "value": "506795.107",
+      "flag": null
+    },
+    {
+      "datetime": "1985-10-01T00:00:00",
+      "value": "820755.667",
+      "flag": null
+    },
+    {
+      "datetime": "1985-11-01T00:00:00",
+      "value": "630294.463",
+      "flag": null
+    },
+    {
+      "datetime": "1985-12-01T00:00:00",
+      "value": "566154.509",
+      "flag": null
+    },
+    {
+      "datetime": "1986-01-01T00:00:00",
+      "value": "425142.175",
+      "flag": null
+    },
+    {
+      "datetime": "1986-02-01T00:00:00",
+      "value": "619620.163",
+      "flag": null
+    },
+    {
+      "datetime": "1986-03-01T00:00:00",
+      "value": "1002916.43",
+      "flag": null
+    },
+    {
+      "datetime": "1986-04-01T00:00:00",
+      "value": "2110948.82",
+      "flag": null
+    },
+    {
+      "datetime": "1986-05-01T00:00:00",
+      "value": "3561926.39",
+      "flag": null
+    },
+    {
+      "datetime": "1986-06-01T00:00:00",
+      "value": "4939671.75",
+      "flag": null
+    },
+    {
+      "datetime": "1986-07-01T00:00:00",
+      "value": "2367205.32",
+      "flag": null
+    },
+    {
+      "datetime": "1986-08-01T00:00:00",
+      "value": "740792",
+      "flag": null
+    },
+    {
+      "datetime": "1986-09-01T00:00:00",
+      "value": "760134.02",
+      "flag": null
+    },
+    {
+      "datetime": "1986-10-01T00:00:00",
+      "value": "1109159.18",
+      "flag": null
+    },
+    {
+      "datetime": "1986-11-01T00:00:00",
+      "value": "948693.787",
+      "flag": null
+    },
+    {
+      "datetime": "1986-12-01T00:00:00",
+      "value": "626277.399",
+      "flag": null
+    },
+    {
+      "datetime": "1987-01-01T00:00:00",
+      "value": "408466.125",
+      "flag": null
+    },
+    {
+      "datetime": "1987-02-01T00:00:00",
+      "value": "631658.144",
+      "flag": null
+    },
+    {
+      "datetime": "1987-03-01T00:00:00",
+      "value": "998586.938",
+      "flag": null
+    },
+    {
+      "datetime": "1987-04-01T00:00:00",
+      "value": "1744726.06",
+      "flag": null
+    },
+    {
+      "datetime": "1987-05-01T00:00:00",
+      "value": "3162075",
+      "flag": null
+    },
+    {
+      "datetime": "1987-06-01T00:00:00",
+      "value": "2176923.69",
+      "flag": null
+    },
+    {
+      "datetime": "1987-07-01T00:00:00",
+      "value": "645628.161",
+      "flag": null
+    },
+    {
+      "datetime": "1987-08-01T00:00:00",
+      "value": "589454.747",
+      "flag": null
+    },
+    {
+      "datetime": "1987-09-01T00:00:00",
+      "value": "335168.514",
+      "flag": null
+    },
+    {
+      "datetime": "1987-10-01T00:00:00",
+      "value": "420310.365",
+      "flag": null
+    },
+    {
+      "datetime": "1987-11-01T00:00:00",
+      "value": "594103.131",
+      "flag": null
+    },
+    {
+      "datetime": "1987-12-01T00:00:00",
+      "value": "325704.972",
+      "flag": null
+    },
+    {
+      "datetime": "1988-01-01T00:00:00",
+      "value": "277747.239",
+      "flag": null
+    },
+    {
+      "datetime": "1988-02-01T00:00:00",
+      "value": "434727.24",
+      "flag": null
+    },
+    {
+      "datetime": "1988-03-01T00:00:00",
+      "value": "658463.25",
+      "flag": null
+    },
+    {
+      "datetime": "1988-04-01T00:00:00",
+      "value": "1013678.14",
+      "flag": null
+    },
+    {
+      "datetime": "1988-05-01T00:00:00",
+      "value": "1475615.75",
+      "flag": null
+    },
+    {
+      "datetime": "1988-06-01T00:00:00",
+      "value": "1709951.79",
+      "flag": null
+    },
+    {
+      "datetime": "1988-07-01T00:00:00",
+      "value": "467657.71",
+      "flag": null
+    },
+    {
+      "datetime": "1988-08-01T00:00:00",
+      "value": "308065.933",
+      "flag": null
+    },
+    {
+      "datetime": "1988-09-01T00:00:00",
+      "value": "302971.101",
+      "flag": null
+    },
+    {
+      "datetime": "1988-10-01T00:00:00",
+      "value": "260284.685",
+      "flag": null
+    },
+    {
+      "datetime": "1988-11-01T00:00:00",
+      "value": "272467.404",
+      "flag": null
+    },
+    {
+      "datetime": "1988-12-01T00:00:00",
+      "value": "246490.01",
+      "flag": null
+    },
+    {
+      "datetime": "1989-01-01T00:00:00",
+      "value": "205319.202",
+      "flag": null
+    },
+    {
+      "datetime": "1989-02-01T00:00:00",
+      "value": "330688.546",
+      "flag": null
+    },
+    {
+      "datetime": "1989-03-01T00:00:00",
+      "value": "747629.959",
+      "flag": null
+    },
+    {
+      "datetime": "1989-04-01T00:00:00",
+      "value": "965293.251",
+      "flag": null
+    },
+    {
+      "datetime": "1989-05-01T00:00:00",
+      "value": "1068174.95",
+      "flag": null
+    },
+    {
+      "datetime": "1989-06-01T00:00:00",
+      "value": "1043709.97",
+      "flag": null
+    },
+    {
+      "datetime": "1989-07-01T00:00:00",
+      "value": "335762.5",
+      "flag": null
+    },
+    {
+      "datetime": "1989-08-01T00:00:00",
+      "value": "339385.271",
+      "flag": null
+    },
+    {
+      "datetime": "1989-09-01T00:00:00",
+      "value": "124223.684",
+      "flag": null
+    },
+    {
+      "datetime": "1989-10-01T00:00:00",
+      "value": "237741.803",
+      "flag": null
+    },
+    {
+      "datetime": "1989-11-01T00:00:00",
+      "value": "288487.6",
+      "flag": null
+    },
+    {
+      "datetime": "1989-12-01T00:00:00",
+      "value": "247559.253",
+      "flag": null
+    },
+    {
+      "datetime": "1990-01-01T00:00:00",
+      "value": "271047.522",
+      "flag": null
+    },
+    {
+      "datetime": "1990-02-01T00:00:00",
+      "value": "204912.835",
+      "flag": null
+    },
+    {
+      "datetime": "1990-03-01T00:00:00",
+      "value": "377205.551",
+      "flag": null
+    },
+    {
+      "datetime": "1990-04-01T00:00:00",
+      "value": "455581.73",
+      "flag": null
+    },
+    {
+      "datetime": "1990-05-01T00:00:00",
+      "value": "708493.714",
+      "flag": null
+    },
+    {
+      "datetime": "1990-06-01T00:00:00",
+      "value": "1438679.91",
+      "flag": null
+    },
+    {
+      "datetime": "1990-07-01T00:00:00",
+      "value": "581301.132",
+      "flag": null
+    },
+    {
+      "datetime": "1990-08-01T00:00:00",
+      "value": "197256.253",
+      "flag": null
+    },
+    {
+      "datetime": "1990-09-01T00:00:00",
+      "value": "302609.608",
+      "flag": null
+    },
+    {
+      "datetime": "1990-10-01T00:00:00",
+      "value": "454742.187",
+      "flag": null
+    },
+    {
+      "datetime": "1990-11-01T00:00:00",
+      "value": "386210.964",
+      "flag": null
+    },
+    {
+      "datetime": "1990-12-01T00:00:00",
+      "value": "276307.216",
+      "flag": null
+    },
+    {
+      "datetime": "1991-01-01T00:00:00",
+      "value": "504200.755",
+      "flag": null
+    },
+    {
+      "datetime": "1991-02-01T00:00:00",
+      "value": "493392.306",
+      "flag": null
+    },
+    {
+      "datetime": "1991-03-01T00:00:00",
+      "value": "500714.296",
+      "flag": null
+    },
+    {
+      "datetime": "1991-04-01T00:00:00",
+      "value": "749450.23",
+      "flag": null
+    },
+    {
+      "datetime": "1991-05-01T00:00:00",
+      "value": "1550684.02",
+      "flag": null
+    },
+    {
+      "datetime": "1991-06-01T00:00:00",
+      "value": "2358687.39",
+      "flag": null
+    },
+    {
+      "datetime": "1991-07-01T00:00:00",
+      "value": "629631.949",
+      "flag": null
+    },
+    {
+      "datetime": "1991-08-01T00:00:00",
+      "value": "398573.89",
+      "flag": null
+    },
+    {
+      "datetime": "1991-09-01T00:00:00",
+      "value": "498083.217",
+      "flag": null
+    },
+    {
+      "datetime": "1991-10-01T00:00:00",
+      "value": "275436.971",
+      "flag": null
+    },
+    {
+      "datetime": "1991-11-01T00:00:00",
+      "value": "515259.626",
+      "flag": null
+    },
+    {
+      "datetime": "1991-12-01T00:00:00",
+      "value": "372900.461",
+      "flag": null
+    },
+    {
+      "datetime": "1992-01-01T00:00:00",
+      "value": "298598.683",
+      "flag": null
+    },
+    {
+      "datetime": "1992-02-01T00:00:00",
+      "value": "440284.709",
+      "flag": null
+    },
+    {
+      "datetime": "1992-03-01T00:00:00",
+      "value": "591122.691",
+      "flag": null
+    },
+    {
+      "datetime": "1992-04-01T00:00:00",
+      "value": "908369.043",
+      "flag": null
+    },
+    {
+      "datetime": "1992-05-01T00:00:00",
+      "value": "1719067.3",
+      "flag": null
+    },
+    {
+      "datetime": "1992-06-01T00:00:00",
+      "value": "1234476.21",
+      "flag": null
+    },
+    {
+      "datetime": "1992-07-01T00:00:00",
+      "value": "503220.506",
+      "flag": null
+    },
+    {
+      "datetime": "1992-08-01T00:00:00",
+      "value": "263076.62",
+      "flag": null
+    },
+    {
+      "datetime": "1992-09-01T00:00:00",
+      "value": "230624.582",
+      "flag": null
+    },
+    {
+      "datetime": "1992-10-01T00:00:00",
+      "value": "257170.453",
+      "flag": null
+    },
+    {
+      "datetime": "1992-11-01T00:00:00",
+      "value": "397169.736",
+      "flag": null
+    },
+    {
+      "datetime": "1992-12-01T00:00:00",
+      "value": "253942.326",
+      "flag": null
+    },
+    {
+      "datetime": "1993-01-01T00:00:00",
+      "value": "614173.495",
+      "flag": null
+    },
+    {
+      "datetime": "1993-02-01T00:00:00",
+      "value": "480860.762",
+      "flag": null
+    },
+    {
+      "datetime": "1993-03-01T00:00:00",
+      "value": "932176.999",
+      "flag": null
+    },
+    {
+      "datetime": "1993-04-01T00:00:00",
+      "value": "1406247.51",
+      "flag": null
+    },
+    {
+      "datetime": "1993-05-01T00:00:00",
+      "value": "3919287.52",
+      "flag": null
+    },
+    {
+      "datetime": "1993-06-01T00:00:00",
+      "value": "3885332.38",
+      "flag": null
+    },
+    {
+      "datetime": "1993-07-01T00:00:00",
+      "value": "1343965.99",
+      "flag": null
+    },
+    {
+      "datetime": "1993-08-01T00:00:00",
+      "value": "552579.221",
+      "flag": null
+    },
+    {
+      "datetime": "1993-09-01T00:00:00",
+      "value": "393647.435",
+      "flag": null
+    },
+    {
+      "datetime": "1993-10-01T00:00:00",
+      "value": "468853.981",
+      "flag": null
+    },
+    {
+      "datetime": "1993-11-01T00:00:00",
+      "value": "403007.945",
+      "flag": null
+    },
+    {
+      "datetime": "1993-12-01T00:00:00",
+      "value": "328252.448",
+      "flag": null
+    },
+    {
+      "datetime": "1994-01-01T00:00:00",
+      "value": "365816.93",
+      "flag": null
+    },
+    {
+      "datetime": "1994-02-01T00:00:00",
+      "value": "333884.597",
+      "flag": null
+    },
+    {
+      "datetime": "1994-03-01T00:00:00",
+      "value": "643890.096",
+      "flag": null
+    },
+    {
+      "datetime": "1994-04-01T00:00:00",
+      "value": "670140.167",
+      "flag": null
+    },
+    {
+      "datetime": "1994-05-01T00:00:00",
+      "value": "1681753.83",
+      "flag": null
+    },
+    {
+      "datetime": "1994-06-01T00:00:00",
+      "value": "1404897.22",
+      "flag": null
+    },
+    {
+      "datetime": "1994-07-01T00:00:00",
+      "value": "144136.458",
+      "flag": null
+    },
+    {
+      "datetime": "1994-08-01T00:00:00",
+      "value": "119410.992",
+      "flag": null
+    },
+    {
+      "datetime": "1994-09-01T00:00:00",
+      "value": "229508.98",
+      "flag": null
+    },
+    {
+      "datetime": "1994-10-01T00:00:00",
+      "value": "380049.309",
+      "flag": null
+    },
+    {
+      "datetime": "1994-11-01T00:00:00",
+      "value": "356293.517",
+      "flag": null
+    },
+    {
+      "datetime": "1994-12-01T00:00:00",
+      "value": "329301.3",
+      "flag": null
+    },
+    {
+      "datetime": "1995-01-01T00:00:00",
+      "value": "293470.314",
+      "flag": null
+    },
+    {
+      "datetime": "1995-02-01T00:00:00",
+      "value": "365807.642",
+      "flag": null
+    },
+    {
+      "datetime": "1995-03-01T00:00:00",
+      "value": "846773.086",
+      "flag": null
+    },
+    {
+      "datetime": "1995-04-01T00:00:00",
+      "value": "759410.656",
+      "flag": null
+    },
+    {
+      "datetime": "1995-05-01T00:00:00",
+      "value": "2241506.11",
+      "flag": null
+    },
+    {
+      "datetime": "1995-06-01T00:00:00",
+      "value": "5059698.36",
+      "flag": null
+    },
+    {
+      "datetime": "1995-07-01T00:00:00",
+      "value": "3978426.27",
+      "flag": null
+    },
+    {
+      "datetime": "1995-08-01T00:00:00",
+      "value": "896114.681",
+      "flag": null
+    },
+    {
+      "datetime": "1995-09-01T00:00:00",
+      "value": "398388.156",
+      "flag": null
+    },
+    {
+      "datetime": "1995-10-01T00:00:00",
+      "value": "438109.106",
+      "flag": null
+    },
+    {
+      "datetime": "1995-11-01T00:00:00",
+      "value": "465892.716",
+      "flag": null
+    },
+    {
+      "datetime": "1995-12-01T00:00:00",
+      "value": "391490.202",
+      "flag": null
+    },
+    {
+      "datetime": "1996-01-01T00:00:00",
+      "value": "320670.36",
+      "flag": null
+    },
+    {
+      "datetime": "1996-02-01T00:00:00",
+      "value": "463875.403",
+      "flag": null
+    },
+    {
+      "datetime": "1996-03-01T00:00:00",
+      "value": "534482.299",
+      "flag": null
+    },
+    {
+      "datetime": "1996-04-01T00:00:00",
+      "value": "1085476.68",
+      "flag": null
+    },
+    {
+      "datetime": "1996-05-01T00:00:00",
+      "value": "2641940.38",
+      "flag": null
+    },
+    {
+      "datetime": "1996-06-01T00:00:00",
+      "value": "2519505.82",
+      "flag": null
+    },
+    {
+      "datetime": "1996-07-01T00:00:00",
+      "value": "1044805.62",
+      "flag": null
+    },
+    {
+      "datetime": "1996-08-01T00:00:00",
+      "value": "207779.892",
+      "flag": null
+    },
+    {
+      "datetime": "1996-09-01T00:00:00",
+      "value": "288285.495",
+      "flag": null
+    },
+    {
+      "datetime": "1996-10-01T00:00:00",
+      "value": "415058.504",
+      "flag": null
+    },
+    {
+      "datetime": "1996-11-01T00:00:00",
+      "value": "534875.313",
+      "flag": null
+    },
+    {
+      "datetime": "1996-12-01T00:00:00",
+      "value": "408246.765",
+      "flag": null
+    },
+    {
+      "datetime": "1997-01-01T00:00:00",
+      "value": "428927.605",
+      "flag": null
+    },
+    {
+      "datetime": "1997-02-01T00:00:00",
+      "value": "371092.1",
+      "flag": null
+    },
+    {
+      "datetime": "1997-03-01T00:00:00",
+      "value": "1110600.71",
+      "flag": null
+    },
+    {
+      "datetime": "1997-04-01T00:00:00",
+      "value": "1467550.45",
+      "flag": null
+    },
+    {
+      "datetime": "1997-05-01T00:00:00",
+      "value": "3921135.2",
+      "flag": null
+    },
+    {
+      "datetime": "1997-06-01T00:00:00",
+      "value": "4896571.46",
+      "flag": null
+    },
+    {
+      "datetime": "1997-07-01T00:00:00",
+      "value": "1311491.55",
+      "flag": null
+    },
+    {
+      "datetime": "1997-08-01T00:00:00",
+      "value": "1054133.72",
+      "flag": null
+    },
+    {
+      "datetime": "1997-09-01T00:00:00",
+      "value": "1133567.85",
+      "flag": null
+    },
+    {
+      "datetime": "1997-10-01T00:00:00",
+      "value": "919271.242",
+      "flag": null
+    },
+    {
+      "datetime": "1997-11-01T00:00:00",
+      "value": "628111.932",
+      "flag": null
+    },
+    {
+      "datetime": "1997-12-01T00:00:00",
+      "value": "479228.801",
+      "flag": null
+    },
+    {
+      "datetime": "1998-01-01T00:00:00",
+      "value": "481490.279",
+      "flag": null
+    },
+    {
+      "datetime": "1998-02-01T00:00:00",
+      "value": "454315.597",
+      "flag": null
+    },
+    {
+      "datetime": "1998-03-01T00:00:00",
+      "value": "750266.553",
+      "flag": null
+    },
+    {
+      "datetime": "1998-04-01T00:00:00",
+      "value": "1397689.8",
+      "flag": null
+    },
+    {
+      "datetime": "1998-05-01T00:00:00",
+      "value": "3141525.91",
+      "flag": null
+    },
+    {
+      "datetime": "1998-06-01T00:00:00",
+      "value": "2669316.77",
+      "flag": null
+    },
+    {
+      "datetime": "1998-07-01T00:00:00",
+      "value": "1516373.77",
+      "flag": null
+    },
+    {
+      "datetime": "1998-08-01T00:00:00",
+      "value": "621820.578",
+      "flag": null
+    },
+    {
+      "datetime": "1998-09-01T00:00:00",
+      "value": "460975.294",
+      "flag": null
+    },
+    {
+      "datetime": "1998-10-01T00:00:00",
+      "value": "635019.617",
+      "flag": null
+    },
+    {
+      "datetime": "1998-11-01T00:00:00",
+      "value": "697881.331",
+      "flag": null
+    },
+    {
+      "datetime": "1998-12-01T00:00:00",
+      "value": "370009.95",
+      "flag": null
+    },
+    {
+      "datetime": "1999-01-01T00:00:00",
+      "value": "455591.828",
+      "flag": null
+    },
+    {
+      "datetime": "1999-02-01T00:00:00",
+      "value": "408668.035",
+      "flag": null
+    },
+    {
+      "datetime": "1999-03-01T00:00:00",
+      "value": "507390.304",
+      "flag": null
+    },
+    {
+      "datetime": "1999-04-01T00:00:00",
+      "value": "669497.118",
+      "flag": null
+    },
+    {
+      "datetime": "1999-05-01T00:00:00",
+      "value": "2151060.21",
+      "flag": null
+    },
+    {
+      "datetime": "1999-06-01T00:00:00",
+      "value": "3422563.62",
+      "flag": null
+    },
+    {
+      "datetime": "1999-07-01T00:00:00",
+      "value": "1597776.95",
+      "flag": null
+    },
+    {
+      "datetime": "1999-08-01T00:00:00",
+      "value": "1180069.18",
+      "flag": null
+    },
+    {
+      "datetime": "1999-09-01T00:00:00",
+      "value": "704838.829",
+      "flag": null
+    },
+    {
+      "datetime": "1999-10-01T00:00:00",
+      "value": "415441.076",
+      "flag": null
+    },
+    {
+      "datetime": "1999-11-01T00:00:00",
+      "value": "380798.624",
+      "flag": null
+    },
+    {
+      "datetime": "1999-12-01T00:00:00",
+      "value": "333554.704",
+      "flag": null
+    },
+    {
+      "datetime": "2000-01-01T00:00:00",
+      "value": "356999.447",
+      "flag": null
+    },
+    {
+      "datetime": "2000-02-01T00:00:00",
+      "value": "379686.384",
+      "flag": null
+    },
+    {
+      "datetime": "2000-03-01T00:00:00",
+      "value": "480618.161",
+      "flag": null
+    },
+    {
+      "datetime": "2000-04-01T00:00:00",
+      "value": "863116.951",
+      "flag": null
+    },
+    {
+      "datetime": "2000-05-01T00:00:00",
+      "value": "1802128.25",
+      "flag": null
+    },
+    {
+      "datetime": "2000-06-01T00:00:00",
+      "value": "1386534.45",
+      "flag": null
+    },
+    {
+      "datetime": "2000-07-01T00:00:00",
+      "value": "259593.589",
+      "flag": null
+    },
+    {
+      "datetime": "2000-08-01T00:00:00",
+      "value": "88854.0585",
+      "flag": null
+    },
+    {
+      "datetime": "2000-09-01T00:00:00",
+      "value": "188964.421",
+      "flag": null
+    },
+    {
+      "datetime": "2000-10-01T00:00:00",
+      "value": "361297.588",
+      "flag": null
+    },
+    {
+      "datetime": "2000-11-01T00:00:00",
+      "value": "326532.701",
+      "flag": null
+    },
+    {
+      "datetime": "2000-12-01T00:00:00",
+      "value": "291965.543",
+      "flag": null
+    },
+    {
+      "datetime": "2001-01-01T00:00:00",
+      "value": "272148.035",
+      "flag": null
+    },
+    {
+      "datetime": "2001-02-01T00:00:00",
+      "value": "297437.671",
+      "flag": null
+    },
+    {
+      "datetime": "2001-03-01T00:00:00",
+      "value": "539669.101",
+      "flag": null
+    },
+    {
+      "datetime": "2001-04-01T00:00:00",
+      "value": "704590.103",
+      "flag": null
+    },
+    {
+      "datetime": "2001-05-01T00:00:00",
+      "value": "2050691.5",
+      "flag": null
+    },
+    {
+      "datetime": "2001-06-01T00:00:00",
+      "value": "1291795.17",
+      "flag": null
+    },
+    {
+      "datetime": "2001-07-01T00:00:00",
+      "value": "320219.328",
+      "flag": null
+    },
+    {
+      "datetime": "2001-08-01T00:00:00",
+      "value": "360257.143",
+      "flag": null
+    },
+    {
+      "datetime": "2001-09-01T00:00:00",
+      "value": "177224.692",
+      "flag": null
+    },
+    {
+      "datetime": "2001-10-01T00:00:00",
+      "value": "158815.945",
+      "flag": null
+    },
+    {
+      "datetime": "2001-11-01T00:00:00",
+      "value": "287964.891",
+      "flag": null
+    },
+    {
+      "datetime": "2001-12-01T00:00:00",
+      "value": "226282.396",
+      "flag": null
+    },
+    {
+      "datetime": "2002-01-01T00:00:00",
+      "value": "233202.018",
+      "flag": null
+    },
+    {
+      "datetime": "2002-02-01T00:00:00",
+      "value": "215526.025",
+      "flag": null
+    },
+    {
+      "datetime": "2002-03-01T00:00:00",
+      "value": "296535.916",
+      "flag": null
+    },
+    {
+      "datetime": "2002-04-01T00:00:00",
+      "value": "386599.166",
+      "flag": null
+    },
+    {
+      "datetime": "2002-05-01T00:00:00",
+      "value": "311306.653",
+      "flag": null
+    },
+    {
+      "datetime": "2002-06-01T00:00:00",
+      "value": "284457.358",
+      "flag": null
+    },
+    {
+      "datetime": "2002-07-01T00:00:00",
+      "value": "-18405.062",
+      "flag": null
+    },
+    {
+      "datetime": "2002-08-01T00:00:00",
+      "value": "-49893.699",
+      "flag": null
+    },
+    {
+      "datetime": "2002-09-01T00:00:00",
+      "value": "310335.45",
+      "flag": null
+    },
+    {
+      "datetime": "2002-10-01T00:00:00",
+      "value": "257803.467",
+      "flag": null
+    },
+    {
+      "datetime": "2002-11-01T00:00:00",
+      "value": "333376.521",
+      "flag": null
+    },
+    {
+      "datetime": "2002-12-01T00:00:00",
+      "value": "238870.168",
+      "flag": null
+    },
+    {
+      "datetime": "2003-01-01T00:00:00",
+      "value": "220025.17",
+      "flag": null
+    },
+    {
+      "datetime": "2003-02-01T00:00:00",
+      "value": "233627.683",
+      "flag": null
+    },
+    {
+      "datetime": "2003-03-01T00:00:00",
+      "value": "418132.778",
+      "flag": null
+    },
+    {
+      "datetime": "2003-04-01T00:00:00",
+      "value": "430978.036",
+      "flag": null
+    },
+    {
+      "datetime": "2003-05-01T00:00:00",
+      "value": "1336511.67",
+      "flag": null
+    },
+    {
+      "datetime": "2003-06-01T00:00:00",
+      "value": "1904819.72",
+      "flag": null
+    },
+    {
+      "datetime": "2003-07-01T00:00:00",
+      "value": "241885.997",
+      "flag": null
+    },
+    {
+      "datetime": "2003-08-01T00:00:00",
+      "value": "110945.008",
+      "flag": null
+    },
+    {
+      "datetime": "2003-09-01T00:00:00",
+      "value": "433750.511",
+      "flag": null
+    },
+    {
+      "datetime": "2003-10-01T00:00:00",
+      "value": "263267.613",
+      "flag": null
+    },
+    {
+      "datetime": "2003-11-01T00:00:00",
+      "value": "344608.699",
+      "flag": null
+    },
+    {
+      "datetime": "2003-12-01T00:00:00",
+      "value": "277030.519",
+      "flag": null
+    },
+    {
+      "datetime": "2004-01-01T00:00:00",
+      "value": "236566.301",
+      "flag": null
+    },
+    {
+      "datetime": "2004-02-01T00:00:00",
+      "value": "258936.623",
+      "flag": null
+    },
+    {
+      "datetime": "2004-03-01T00:00:00",
+      "value": "554492.215",
+      "flag": null
+    },
+    {
+      "datetime": "2004-04-01T00:00:00",
+      "value": "892499.311",
+      "flag": null
+    },
+    {
+      "datetime": "2004-05-01T00:00:00",
+      "value": "1231595.22",
+      "flag": null
+    },
+    {
+      "datetime": "2004-06-01T00:00:00",
+      "value": "1003860.71",
+      "flag": null
+    },
+    {
+      "datetime": "2004-07-01T00:00:00",
+      "value": "414342.478",
+      "flag": null
+    },
+    {
+      "datetime": "2004-08-01T00:00:00",
+      "value": "123861.812",
+      "flag": null
+    },
+    {
+      "datetime": "2004-09-01T00:00:00",
+      "value": "312290.293",
+      "flag": null
+    },
+    {
+      "datetime": "2004-10-01T00:00:00",
+      "value": "483509.535",
+      "flag": null
+    },
+    {
+      "datetime": "2004-11-01T00:00:00",
+      "value": "538880.897",
+      "flag": null
+    },
+    {
+      "datetime": "2004-12-01T00:00:00",
+      "value": "375108.875",
+      "flag": null
+    },
+    {
+      "datetime": "2005-01-01T00:00:00",
+      "value": "601589.683",
+      "flag": null
+    },
+    {
+      "datetime": "2005-02-01T00:00:00",
+      "value": "517600.681",
+      "flag": null
+    },
+    {
+      "datetime": "2005-03-01T00:00:00",
+      "value": "610775.374",
+      "flag": null
+    },
+    {
+      "datetime": "2005-04-01T00:00:00",
+      "value": "1306432.07",
+      "flag": null
+    },
+    {
+      "datetime": "2005-05-01T00:00:00",
+      "value": "3133057.31",
+      "flag": null
+    },
+    {
+      "datetime": "2005-06-01T00:00:00",
+      "value": "3265189.59",
+      "flag": null
+    },
+    {
+      "datetime": "2005-07-01T00:00:00",
+      "value": "1214319.06",
+      "flag": null
+    },
+    {
+      "datetime": "2005-08-01T00:00:00",
+      "value": "437581.703",
+      "flag": null
+    },
+    {
+      "datetime": "2005-09-01T00:00:00",
+      "value": "310890.809",
+      "flag": null
+    },
+    {
+      "datetime": "2005-10-01T00:00:00",
+      "value": "607734.488",
+      "flag": null
+    },
+    {
+      "datetime": "2005-11-01T00:00:00",
+      "value": "463857.694",
+      "flag": null
+    },
+    {
+      "datetime": "2005-12-01T00:00:00",
+      "value": "318886.411",
+      "flag": null
+    },
+    {
+      "datetime": "2006-01-01T00:00:00",
+      "value": "345953.822",
+      "flag": null
+    },
+    {
+      "datetime": "2006-02-01T00:00:00",
+      "value": "304526.73",
+      "flag": null
+    },
+    {
+      "datetime": "2006-03-01T00:00:00",
+      "value": "484490.82",
+      "flag": null
+    },
+    {
+      "datetime": "2006-04-01T00:00:00",
+      "value": "1152106.55",
+      "flag": null
+    },
+    {
+      "datetime": "2006-05-01T00:00:00",
+      "value": "2196376.14",
+      "flag": null
+    },
+    {
+      "datetime": "2006-06-01T00:00:00",
+      "value": "1542258.36",
+      "flag": null
+    },
+    {
+      "datetime": "2006-07-01T00:00:00",
+      "value": "456368.377",
+      "flag": null
+    },
+    {
+      "datetime": "2006-08-01T00:00:00",
+      "value": "367232.54",
+      "flag": null
+    },
+    {
+      "datetime": "2006-09-01T00:00:00",
+      "value": "386336.536",
+      "flag": null
+    },
+    {
+      "datetime": "2006-10-01T00:00:00",
+      "value": "1394905.54",
+      "flag": null
+    },
+    {
+      "datetime": "2006-11-01T00:00:00",
+      "value": "538864.15",
+      "flag": null
+    },
+    {
+      "datetime": "2006-12-01T00:00:00",
+      "value": "359834.397",
+      "flag": null
+    },
+    {
+      "datetime": "2007-01-01T00:00:00",
+      "value": "294730.269",
+      "flag": null
+    },
+    {
+      "datetime": "2007-02-01T00:00:00",
+      "value": "391065.421",
+      "flag": null
+    },
+    {
+      "datetime": "2007-03-01T00:00:00",
+      "value": "823334.14",
+      "flag": null
+    },
+    {
+      "datetime": "2007-04-01T00:00:00",
+      "value": "882591.463",
+      "flag": null
+    },
+    {
+      "datetime": "2007-05-01T00:00:00",
+      "value": "1746281.74",
+      "flag": null
+    },
+    {
+      "datetime": "2007-06-01T00:00:00",
+      "value": "1288367.39",
+      "flag": null
+    },
+    {
+      "datetime": "2007-07-01T00:00:00",
+      "value": "321044.872",
+      "flag": null
+    },
+    {
+      "datetime": "2007-08-01T00:00:00",
+      "value": "397393.843",
+      "flag": null
+    },
+    {
+      "datetime": "2007-09-01T00:00:00",
+      "value": "315111.735",
+      "flag": null
+    },
+    {
+      "datetime": "2007-10-01T00:00:00",
+      "value": "431223.118",
+      "flag": null
+    },
+    {
+      "datetime": "2007-11-01T00:00:00",
+      "value": "356674.306",
+      "flag": null
+    },
+    {
+      "datetime": "2007-12-01T00:00:00",
+      "value": "366536.185",
+      "flag": null
+    },
+    {
+      "datetime": "2008-01-01T00:00:00",
+      "value": "309906.083",
+      "flag": null
+    },
+    {
+      "datetime": "2008-02-01T00:00:00",
+      "value": "454150.252",
+      "flag": null
+    },
+    {
+      "datetime": "2008-03-01T00:00:00",
+      "value": "626521.075",
+      "flag": null
+    },
+    {
+      "datetime": "2008-04-01T00:00:00",
+      "value": "1143902.69",
+      "flag": null
+    },
+    {
+      "datetime": "2008-05-01T00:00:00",
+      "value": "2821829.58",
+      "flag": null
+    },
+    {
+      "datetime": "2008-06-01T00:00:00",
+      "value": "3407986",
+      "flag": null
+    },
+    {
+      "datetime": "2008-07-01T00:00:00",
+      "value": "1445524.94",
+      "flag": null
+    },
+    {
+      "datetime": "2008-08-01T00:00:00",
+      "value": "424648.825",
+      "flag": null
+    },
+    {
+      "datetime": "2008-09-01T00:00:00",
+      "value": "296910.798",
+      "flag": null
+    },
+    {
+      "datetime": "2008-10-01T00:00:00",
+      "value": "307432.496",
+      "flag": null
+    },
+    {
+      "datetime": "2008-11-01T00:00:00",
+      "value": "379222.362",
+      "flag": null
+    },
+    {
+      "datetime": "2008-12-01T00:00:00",
+      "value": "296299.522",
+      "flag": null
+    },
+    {
+      "datetime": "2009-01-01T00:00:00",
+      "value": "329359.121",
+      "flag": null
+    },
+    {
+      "datetime": "2009-02-01T00:00:00",
+      "value": "323243.062",
+      "flag": null
+    },
+    {
+      "datetime": "2009-03-01T00:00:00",
+      "value": "489551.419",
+      "flag": null
+    },
+    {
+      "datetime": "2009-04-01T00:00:00",
+      "value": "838489.643",
+      "flag": null
+    },
+    {
+      "datetime": "2009-05-01T00:00:00",
+      "value": "3133128.9",
+      "flag": null
+    },
+    {
+      "datetime": "2009-06-01T00:00:00",
+      "value": "2616171",
+      "flag": null
+    },
+    {
+      "datetime": "2009-07-01T00:00:00",
+      "value": "1127958.25",
+      "flag": null
+    },
+    {
+      "datetime": "2009-08-01T00:00:00",
+      "value": "192816.662",
+      "flag": null
+    },
+    {
+      "datetime": "2009-09-01T00:00:00",
+      "value": "185903.471",
+      "flag": null
+    },
+    {
+      "datetime": "2009-10-01T00:00:00",
+      "value": "265298.707",
+      "flag": null
+    },
+    {
+      "datetime": "2009-11-01T00:00:00",
+      "value": "360402.929",
+      "flag": null
+    },
+    {
+      "datetime": "2009-12-01T00:00:00",
+      "value": "217149.488",
+      "flag": null
+    },
+    {
+      "datetime": "2010-01-01T00:00:00",
+      "value": "309573.562",
+      "flag": null
+    },
+    {
+      "datetime": "2010-02-01T00:00:00",
+      "value": "322505.901",
+      "flag": null
+    },
+    {
+      "datetime": "2010-03-01T00:00:00",
+      "value": "535834.764",
+      "flag": null
+    },
+    {
+      "datetime": "2010-04-01T00:00:00",
+      "value": "979840.17",
+      "flag": null
+    },
+    {
+      "datetime": "2010-05-01T00:00:00",
+      "value": "1444316.87",
+      "flag": null
+    },
+    {
+      "datetime": "2010-06-01T00:00:00",
+      "value": "2684688.61",
+      "flag": null
+    },
+    {
+      "datetime": "2010-07-01T00:00:00",
+      "value": "546068.72",
+      "flag": null
+    },
+    {
+      "datetime": "2010-08-01T00:00:00",
+      "value": "516635.152",
+      "flag": null
+    },
+    {
+      "datetime": "2010-09-01T00:00:00",
+      "value": "243777.883",
+      "flag": null
+    },
+    {
+      "datetime": "2010-10-01T00:00:00",
+      "value": "437511.836",
+      "flag": null
+    },
+    {
+      "datetime": "2010-11-01T00:00:00",
+      "value": "351533.581",
+      "flag": null
+    },
+    {
+      "datetime": "2010-12-01T00:00:00",
+      "value": "394575.19",
+      "flag": null
+    },
+    {
+      "datetime": "2011-01-01T00:00:00",
+      "value": "259458.501",
+      "flag": null
+    },
+    {
+      "datetime": "2011-02-01T00:00:00",
+      "value": "280424.458",
+      "flag": null
+    },
+    {
+      "datetime": "2011-03-01T00:00:00",
+      "value": "581486.625",
+      "flag": null
+    },
+    {
+      "datetime": "2011-04-01T00:00:00",
+      "value": "1135771.75",
+      "flag": null
+    },
+    {
+      "datetime": "2011-05-01T00:00:00",
+      "value": "2440349.9",
+      "flag": null
+    },
+    {
+      "datetime": "2011-06-01T00:00:00",
+      "value": "5202628.18",
+      "flag": null
+    },
+    {
+      "datetime": "2011-07-01T00:00:00",
+      "value": "3767050.98",
+      "flag": null
+    },
+    {
+      "datetime": "2011-08-01T00:00:00",
+      "value": "664223.087",
+      "flag": null
+    },
+    {
+      "datetime": "2011-09-01T00:00:00",
+      "value": "456396.622",
+      "flag": null
+    },
+    {
+      "datetime": "2011-10-01T00:00:00",
+      "value": "512755.719",
+      "flag": null
+    },
+    {
+      "datetime": "2011-11-01T00:00:00",
+      "value": "506278.281",
+      "flag": null
+    },
+    {
+      "datetime": "2011-12-01T00:00:00",
+      "value": "362562.33",
+      "flag": null
+    },
+    {
+      "datetime": "2012-01-01T00:00:00",
+      "value": "355903.462",
+      "flag": null
+    },
+    {
+      "datetime": "2012-02-01T00:00:00",
+      "value": "342405.891",
+      "flag": null
+    },
+    {
+      "datetime": "2012-03-01T00:00:00",
+      "value": "559920.681",
+      "flag": null
+    },
+    {
+      "datetime": "2012-04-01T00:00:00",
+      "value": "763890.399",
+      "flag": null
+    },
+    {
+      "datetime": "2012-05-01T00:00:00",
+      "value": "791887.628",
+      "flag": null
+    },
+    {
+      "datetime": "2012-06-01T00:00:00",
+      "value": "353449.257",
+      "flag": null
+    },
+    {
+      "datetime": "2012-07-01T00:00:00",
+      "value": "153971.346",
+      "flag": null
+    },
+    {
+      "datetime": "2012-08-01T00:00:00",
+      "value": "101211.506",
+      "flag": null
+    },
+    {
+      "datetime": "2012-09-01T00:00:00",
+      "value": "104065.419",
+      "flag": null
+    },
+    {
+      "datetime": "2012-10-01T00:00:00",
+      "value": "190132.086",
+      "flag": null
+    },
+    {
+      "datetime": "2012-11-01T00:00:00",
+      "value": "246577.642",
+      "flag": null
+    },
+    {
+      "datetime": "2012-12-01T00:00:00",
+      "value": "201212.287",
+      "flag": null
+    },
+    {
+      "datetime": "2013-01-01T00:00:00",
+      "value": "168360.107",
+      "flag": null
+    },
+    {
+      "datetime": "2013-02-01T00:00:00",
+      "value": "262291.951",
+      "flag": null
+    },
+    {
+      "datetime": "2013-03-01T00:00:00",
+      "value": "362264.837",
+      "flag": null
+    },
+    {
+      "datetime": "2013-04-01T00:00:00",
+      "value": "354695.885",
+      "flag": null
+    },
+    {
+      "datetime": "2013-05-01T00:00:00",
+      "value": "1121562.95",
+      "flag": null
+    },
+    {
+      "datetime": "2013-06-01T00:00:00",
+      "value": "938541.124",
+      "flag": null
+    },
+    {
+      "datetime": "2013-07-01T00:00:00",
+      "value": "142673.828",
+      "flag": null
+    },
+    {
+      "datetime": "2013-08-01T00:00:00",
+      "value": "272650.561",
+      "flag": null
+    },
+    {
+      "datetime": "2013-09-01T00:00:00",
+      "value": "857186.971",
+      "flag": null
+    },
+    {
+      "datetime": "2013-10-01T00:00:00",
+      "value": "548940.138",
+      "flag": null
+    },
+    {
+      "datetime": "2013-11-01T00:00:00",
+      "value": "475938.901",
+      "flag": null
+    },
+    {
+      "datetime": "2013-12-01T00:00:00",
+      "value": "294728.478",
+      "flag": null
+    },
+    {
+      "datetime": "2014-01-01T00:00:00",
+      "value": "270387.503",
+      "flag": null
+    },
+    {
+      "datetime": "2014-02-01T00:00:00",
+      "value": "329847.597",
+      "flag": null
+    },
+    {
+      "datetime": "2014-03-01T00:00:00",
+      "value": "509388.282",
+      "flag": null
+    },
+    {
+      "datetime": "2014-04-01T00:00:00",
+      "value": "964433.533",
+      "flag": null
+    },
+    {
+      "datetime": "2014-05-01T00:00:00",
+      "value": "2081704.51",
+      "flag": null
+    },
+    {
+      "datetime": "2014-06-01T00:00:00",
+      "value": "3039282.7",
+      "flag": null
+    },
+    {
+      "datetime": "2014-07-01T00:00:00",
+      "value": "837596.512",
+      "flag": null
+    },
+    {
+      "datetime": "2014-08-01T00:00:00",
+      "value": "517262.771",
+      "flag": null
+    },
+    {
+      "datetime": "2014-09-01T00:00:00",
+      "value": "511021.755",
+      "flag": null
+    },
+    {
+      "datetime": "2014-10-01T00:00:00",
+      "value": "715914.002",
+      "flag": null
+    },
+    {
+      "datetime": "2014-11-01T00:00:00",
+      "value": "423477.404",
+      "flag": null
+    },
+    {
+      "datetime": "2014-12-01T00:00:00",
+      "value": "408675.986",
+      "flag": null
+    },
+    {
+      "datetime": "2015-01-01T00:00:00",
+      "value": "347860.22",
+      "flag": null
+    },
+    {
+      "datetime": "2015-02-01T00:00:00",
+      "value": "423971.513",
+      "flag": null
+    },
+    {
+      "datetime": "2015-03-01T00:00:00",
+      "value": "552491.66",
+      "flag": null
+    },
+    {
+      "datetime": "2015-04-01T00:00:00",
+      "value": "638525.971",
+      "flag": null
+    },
+    {
+      "datetime": "2015-05-01T00:00:00",
+      "value": "1612506.64",
+      "flag": null
+    },
+    {
+      "datetime": "2015-06-01T00:00:00",
+      "value": "3389181.89",
+      "flag": null
+    },
+    {
+      "datetime": "2015-07-01T00:00:00",
+      "value": "1071877.18",
+      "flag": null
+    },
+    {
+      "datetime": "2015-08-01T00:00:00",
+      "value": "313013.92",
+      "flag": null
+    },
+    {
+      "datetime": "2015-09-01T00:00:00",
+      "value": "276292.138",
+      "flag": null
+    },
+    {
+      "datetime": "2015-10-01T00:00:00",
+      "value": "535493.631",
+      "flag": null
+    },
+    {
+      "datetime": "2015-11-01T00:00:00",
+      "value": "421355.956",
+      "flag": null
+    },
+    {
+      "datetime": "2015-12-01T00:00:00",
+      "value": "266068.654",
+      "flag": null
+    },
+    {
+      "datetime": "2016-01-01T00:00:00",
+      "value": "300010.969",
+      "flag": null
+    },
+    {
+      "datetime": "2016-02-01T00:00:00",
+      "value": "395878.312",
+      "flag": null
+    },
+    {
+      "datetime": "2016-03-01T00:00:00",
+      "value": "553013.992",
+      "flag": null
+    },
+    {
+      "datetime": "2016-04-01T00:00:00",
+      "value": "813928.814",
+      "flag": null
+    },
+    {
+      "datetime": "2016-05-01T00:00:00",
+      "value": "2294360.81",
+      "flag": null
+    },
+    {
+      "datetime": "2016-06-01T00:00:00",
+      "value": "2907135.99",
+      "flag": null
+    },
+    {
+      "datetime": "2016-07-01T00:00:00",
+      "value": "594511.022",
+      "flag": null
+    },
+    {
+      "datetime": "2016-08-01T00:00:00",
+      "value": "253336.867",
+      "flag": null
+    },
+    {
+      "datetime": "2016-09-01T00:00:00",
+      "value": "280810.875",
+      "flag": null
+    },
+    {
+      "datetime": "2016-10-01T00:00:00",
+      "value": "380998.459",
+      "flag": null
+    },
+    {
+      "datetime": "2016-11-01T00:00:00",
+      "value": "382751.049",
+      "flag": null
+    },
+    {
+      "datetime": "2016-12-01T00:00:00",
+      "value": "300414.935",
+      "flag": null
+    },
+    {
+      "datetime": "2017-01-01T00:00:00",
+      "value": "359010.401",
+      "flag": null
+    },
+    {
+      "datetime": "2017-02-01T00:00:00",
+      "value": "555292.299",
+      "flag": null
+    },
+    {
+      "datetime": "2017-03-01T00:00:00",
+      "value": "1111729.53",
+      "flag": null
+    },
+    {
+      "datetime": "2017-04-01T00:00:00",
+      "value": "1608270.56",
+      "flag": null
+    },
+    {
+      "datetime": "2017-05-01T00:00:00",
+      "value": "2377225.6",
+      "flag": null
+    },
+    {
+      "datetime": "2017-06-01T00:00:00",
+      "value": "3114908.53",
+      "flag": null
+    },
+    {
+      "datetime": "2017-07-01T00:00:00",
+      "value": "1073165.41",
+      "flag": null
+    },
+    {
+      "datetime": "2017-08-01T00:00:00",
+      "value": "445552.676",
+      "flag": null
+    },
+    {
+      "datetime": "2017-09-01T00:00:00",
+      "value": "195541.945",
+      "flag": null
+    },
+    {
+      "datetime": "2017-10-01T00:00:00",
+      "value": "448623.556",
+      "flag": null
+    },
+    {
+      "datetime": "2017-11-01T00:00:00",
+      "value": "386925.721",
+      "flag": null
+    },
+    {
+      "datetime": "2017-12-01T00:00:00",
+      "value": "298940.873",
+      "flag": null
+    },
+    {
+      "datetime": "2018-01-01T00:00:00",
+      "value": "261686.342",
+      "flag": null
+    },
+    {
+      "datetime": "2018-02-01T00:00:00",
+      "value": "269468.365",
+      "flag": null
+    },
+    {
+      "datetime": "2018-03-01T00:00:00",
+      "value": "331882.462",
+      "flag": null
+    },
+    {
+      "datetime": "2018-04-01T00:00:00",
+      "value": "381738.49",
+      "flag": null
+    },
+    {
+      "datetime": "2018-05-01T00:00:00",
+      "value": "1214348.53",
+      "flag": null
+    },
+    {
+      "datetime": "2018-06-01T00:00:00",
+      "value": "882950.123",
+      "flag": null
+    },
+    {
+      "datetime": "2018-07-01T00:00:00",
+      "value": "123364.458",
+      "flag": null
+    },
+    {
+      "datetime": "2018-08-01T00:00:00",
+      "value": "11210.1695",
+      "flag": null
+    },
+    {
+      "datetime": "2018-09-01T00:00:00",
+      "value": "916.703679",
+      "flag": null
+    },
+    {
+      "datetime": "2018-10-01T00:00:00",
+      "value": "350870.529",
+      "flag": null
+    },
+    {
+      "datetime": "2018-11-01T00:00:00",
+      "value": "254368.447",
+      "flag": null
+    },
+    {
+      "datetime": "2018-12-01T00:00:00",
+      "value": "228244.589",
+      "flag": null
+    },
+    {
+      "datetime": "2019-01-01T00:00:00",
+      "value": "212487.415",
+      "flag": null
+    },
+    {
+      "datetime": "2019-02-01T00:00:00",
+      "value": "255310.003",
+      "flag": null
+    },
+    {
+      "datetime": "2019-03-01T00:00:00",
+      "value": "624879.588",
+      "flag": null
+    },
+    {
+      "datetime": "2019-04-01T00:00:00",
+      "value": "1242041.91",
+      "flag": null
+    },
+    {
+      "datetime": "2019-05-01T00:00:00",
+      "value": "2511285.18",
+      "flag": null
+    },
+    {
+      "datetime": "2019-06-01T00:00:00",
+      "value": "4205520.11",
+      "flag": null
+    },
+    {
+      "datetime": "2019-07-01T00:00:00",
+      "value": "2451203.91",
+      "flag": null
+    },
+    {
+      "datetime": "2019-08-01T00:00:00",
+      "value": "472215.081",
+      "flag": null
+    },
+    {
+      "datetime": "2019-09-01T00:00:00",
+      "value": "142966.754",
+      "flag": null
+    },
+    {
+      "datetime": "2019-10-01T00:00:00",
+      "value": "264707.809",
+      "flag": null
+    },
+    {
+      "datetime": "2019-11-01T00:00:00",
+      "value": "403897.807",
+      "flag": null
+    },
+    {
+      "datetime": "2019-12-01T00:00:00",
+      "value": "352533.157",
+      "flag": null
+    },
+    {
+      "datetime": "2020-01-01T00:00:00",
+      "value": "277359.536",
+      "flag": null
+    },
+    {
+      "datetime": "2020-02-01T00:00:00",
+      "value": "288336.802",
+      "flag": null
+    },
+    {
+      "datetime": "2020-03-01T00:00:00",
+      "value": "475344.227",
+      "flag": null
+    },
+    {
+      "datetime": "2020-04-01T00:00:00",
+      "value": "474528.411",
+      "flag": null
+    },
+    {
+      "datetime": "2020-05-01T00:00:00",
+      "value": "1541276.97",
+      "flag": null
+    },
+    {
+      "datetime": "2020-06-01T00:00:00",
+      "value": "1452767.07",
+      "flag": null
+    },
+    {
+      "datetime": "2020-07-01T00:00:00",
+      "value": "289709.109",
+      "flag": null
+    },
+    {
+      "datetime": "2020-08-01T00:00:00",
+      "value": "-19861.232",
+      "flag": null
+    },
+    {
+      "datetime": "2020-09-01T00:00:00",
+      "value": "46968.9274",
+      "flag": null
+    },
+    {
+      "datetime": "2020-10-01T00:00:00",
+      "value": "91946.3955",
+      "flag": null
+    },
+    {
+      "datetime": "2020-11-01T00:00:00",
+      "value": "261179.726",
+      "flag": null
+    },
+    {
+      "datetime": "2020-12-01T00:00:00",
+      "value": "167760.139",
+      "flag": null
+    },
+    {
+      "datetime": "2021-01-01T00:00:00",
+      "value": "198397.208",
+      "flag": null
+    },
+    {
+      "datetime": "2021-02-01T00:00:00",
+      "value": "200948.874",
+      "flag": null
+    },
+    {
+      "datetime": "2021-03-01T00:00:00",
+      "value": "296732.194",
+      "flag": null
+    },
+    {
+      "datetime": "2021-04-01T00:00:00",
+      "value": "288763.075",
+      "flag": null
+    },
+    {
+      "datetime": "2021-05-01T00:00:00",
+      "value": "542849.414",
+      "flag": null
+    },
+    {
+      "datetime": "2021-06-01T00:00:00",
+      "value": "809119.099",
+      "flag": null
+    },
+    {
+      "datetime": "2021-07-01T00:00:00",
+      "value": "193301.591",
+      "flag": null
+    },
+    {
+      "datetime": "2021-08-01T00:00:00",
+      "value": "292227.178",
+      "flag": null
+    },
+    {
+      "datetime": "2021-09-01T00:00:00",
+      "value": "158987.541",
+      "flag": null
+    },
+    {
+      "datetime": "2021-10-01T00:00:00",
+      "value": "316681.231",
+      "flag": null
+    },
+    {
+      "datetime": "2021-11-01T00:00:00",
+      "value": "345536.776",
+      "flag": null
+    },
+    {
+      "datetime": "2021-12-01T00:00:00",
+      "value": "265613.705",
+      "flag": null
+    },
+    {
+      "datetime": "2022-01-01T00:00:00",
+      "value": "248973.298",
+      "flag": null
+    },
+    {
+      "datetime": "2022-02-01T00:00:00",
+      "value": "214806.067",
+      "flag": null
+    },
+    {
+      "datetime": "2022-03-01T00:00:00",
+      "value": "328532.912",
+      "flag": null
+    },
+    {
+      "datetime": "2022-04-01T00:00:00",
+      "value": "593707.299",
+      "flag": null
+    },
+    {
+      "datetime": "2022-05-01T00:00:00",
+      "value": "1381500.22",
+      "flag": null
+    },
+    {
+      "datetime": "2022-06-01T00:00:00",
+      "value": "1284253.26",
+      "flag": null
+    },
+    {
+      "datetime": "2022-07-01T00:00:00",
+      "value": "491452.756",
+      "flag": null
+    },
+    {
+      "datetime": "2022-08-01T00:00:00",
+      "value": "368198.739",
+      "flag": null
+    },
+    {
+      "datetime": "2022-09-01T00:00:00",
+      "value": "244621.6",
+      "flag": null
+    },
+    {
+      "datetime": "2022-10-01T00:00:00",
+      "value": "436977.597",
+      "flag": null
+    },
+    {
+      "datetime": "2022-11-01T00:00:00",
+      "value": "349096.35",
+      "flag": null
+    },
+    {
+      "datetime": "2022-12-01T00:00:00",
+      "value": "281414.16",
+      "flag": null
+    },
+    {
+      "datetime": "2023-01-01T00:00:00",
+      "value": "361062.832",
+      "flag": null
+    },
+    {
+      "datetime": "2023-02-01T00:00:00",
+      "value": "270192.267",
+      "flag": null
+    },
+    {
+      "datetime": "2023-03-01T00:00:00",
+      "value": "572763.529",
+      "flag": null
+    },
+    {
+      "datetime": "2023-04-01T00:00:00",
+      "value": "1398507.94",
+      "flag": null
+    },
+    {
+      "datetime": "2023-05-01T00:00:00",
+      "value": "4520228.34",
+      "flag": null
+    },
+    {
+      "datetime": "2023-06-01T00:00:00",
+      "value": "3646047.22",
+      "flag": null
+    },
+    {
+      "datetime": "2023-07-01T00:00:00",
+      "value": "1054194.94",
+      "flag": null
+    },
+    {
+      "datetime": "2023-08-01T00:00:00",
+      "value": "307101.024",
+      "flag": null
+    },
+    {
+      "datetime": "2023-09-01T00:00:00",
+      "value": "223556.468",
+      "flag": null
+    },
+    {
+      "datetime": "2023-10-01T00:00:00",
+      "value": "324290.37",
+      "flag": null
+    },
+    {
+      "datetime": "2023-11-01T00:00:00",
+      "value": "379962.453",
+      "flag": null
+    },
+    {
+      "datetime": "2023-12-01T00:00:00",
+      "value": "205728.834",
+      "flag": null
+    },
+    {
+      "datetime": "2024-01-01T00:00:00",
+      "value": null,
+      "flag": null
+    }
+  ]
+}
