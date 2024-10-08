@@ -1,7 +1,9 @@
 import os
 import ub_dep_utils as ubdutil
 import ub_dep_plots as ubdplt
-
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 # this script uses historical & simulated data on
 # lees ferry natural flows and upper basin demands
 # to estimate unregulated inflows into powell
@@ -22,6 +24,7 @@ print('read historical data')
 filename_hdb = 'data/historical_powell_unregulated_inflow.json'
 filename_csv = 'data/historical_lees_ferry_flow.csv'
 historical_unreg = ubdutil.read_json_file('monthly', 'unreg', filename_hdb)
+historical_unreg.to_csv('annual_historical_unregulated_inflow.csv')
 historical_nf = ubdutil.read_natural_flow_obs('monthly', 'nf', filename_csv)
 
 print('make historical regressions')
@@ -41,7 +44,7 @@ ubdplt.plot_historical_errors(errors, errors_pre1989, errors_post1989, independe
 # Calculate regressions w/ simulated data
 # read simulated data
 print('fit regression models')
-natural_flows, powell_inflows, tot_demands, unreg_inflows = ubdutil.make_regression_inputs(simulation_year_range, simulation_traces)
+natural_flows, powell_inflows, tot_demands, unreg_inflows, natural_flows_monthly, powell_inflows_monthly, tot_demands_monthly, unreg_inflows_monthly = ubdutil.make_regression_inputs(simulation_year_range, simulation_traces)
 # univariate linear regression
 print('....univariate')
 predictions_uv, errors_uv, rsquared_vals_uv = ubdutil.make_univariate_regression(natural_flows, unreg_inflows)
@@ -50,8 +53,19 @@ print('....multivariate')
 predictions_mv, errors_mv, rsquared_vals_mv = ubdutil.make_multivariate_regression(natural_flows, tot_demands, unreg_inflows)
 # multivariate logistic regression
 print('....logistic')
-predictions_lr, errors_lr, rsquared_vals_lr = ubdutil.fit_logistic_regression(natural_flows, tot_demands, unreg_inflows)
-
+param_table = pd.DataFrame()
+for monthNum in range(0, 12):
+  predictions_lr, errors_lr, rsquared_vals_lr, params = ubdutil.fit_logistic_regression(natural_flows_monthly[:,monthNum], tot_demands_monthly[:,monthNum], unreg_inflows_monthly[:,monthNum])
+  print(monthNum)
+  print(params)
+  param_table.loc[monthNum, 'Magnitude1'] = float(params[0])
+  param_table.loc[monthNum, 'Location1'] = float(params[3])
+  param_table.loc[monthNum, 'Scale1'] = float(params[4])
+  param_table.loc[monthNum, 'Magnitude2'] = float(params[5])
+  param_table.loc[monthNum, 'Location2'] = float(params[1])
+  param_table.loc[monthNum, 'Scale2'] = float(params[2])
+param_table.to_csv('monthly_params.csv')
+  
 # Plot linear regression
 print('plot linear regression')
 ubdplt.plot_demand_nf_regression(natural_flows, tot_demands, unreg_inflows, predictions_uv, rsquared_vals_uv)

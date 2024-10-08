@@ -45,8 +45,8 @@ def label_error_plots(ax_label, cbar_label):
   
 def plot_historical_regression(predictions, r2, independents, dependent):
   fig, ax = plt.subplots()
-  ax.plot(dependent, independents[:,0], marker = 'o', markerfacecolor = 'slategray',  markeredgecolor = 'black', markersize = 10, linewidth = 1, color = 'none')
-  ax.plot(predictions, independents[:,0], color = 'black', linewidth = 2.5)
+  ax.plot(dependent, independents[:], marker = 'o', markerfacecolor = 'slategray',  markeredgecolor = 'black', markersize = 10, linewidth = 1, color = 'none')
+  ax.plot(predictions, independents[:], color = 'black', linewidth = 2.5)
   ax = label_historical_regressions(ax, [r2, ], ['black',], ['Historical Regression',])
   plt.savefig('figures/nf_unreg_historical_regression_single.png')
   plt.close()
@@ -56,9 +56,9 @@ def plot_historical_regression_multiperiod(predictions_pre1989, predictions_post
   split_idx = split_date - 1963
   color_year = sns.color_palette('RdYlBu', len(dependent))
   for x in range(0, len(dependent)):
-    ax.plot([dependent[x],], [independents[x,0],], color = color_year[x], marker = 'o', markersize = 10, linewidth = 0)
-  ax.plot(predictions_pre1989, independents[:split_idx,0], color = 'indianred', linewidth = 2.5)
-  ax.plot(predictions_post1989, independents[split_idx:,0], color = 'steelblue', linewidth = 2.5)
+    ax.plot([dependent[x],], [independents[x],], color = color_year[x], marker = 'o', markersize = 10, linewidth = 0)
+  ax.plot(predictions_pre1989, independents[:split_idx], color = 'indianred', linewidth = 2.5)
+  ax.plot(predictions_post1989, independents[split_idx:], color = 'steelblue', linewidth = 2.5)
   ax = label_historical_regressions(ax, rsquared_vals, ['indianred', 'steelblue'], ['Historical Regression, Pre-1989', 'Historical Regression, Post-1989'])
   plt.savefig('figures/nf_unreg_historical_regression_multi.png')
   plt.close()
@@ -161,8 +161,10 @@ def plot_demand_nf_regression_multivariate(natural_flows, tot_demands, unreg_inf
   ax[1].text(5500000, 25000000, 'R*2 < 12.5maf: ' + str(int(rsquared_vals[2] * 1000) / 1000.0), fontsize = 10, horizontalalignment='left', verticalalignment='center', color = 'crimson')
   ax[1].text(5500000, 22500000, 'R*2 > 25maf: ' + str(int(rsquared_vals[3] * 1000) / 1000.0), fontsize = 10, horizontalalignment='left', verticalalignment='center', color = 'crimson')
   ax[1].set_xlabel('Lees Ferry Natural Flow')
-  ax[1].set_xticks([5000000, 10000000, 15000000, 20000000, 25000000, 30000000, 35000000, 40000000])
-  ax[1].set_xticklabels([5, 10, 15, 20, 25, 30, 35, 40])
+  ax[1].set_xticks([5000000, 10000000, 15000000, 20000000, 25000000, 30000000, 35000000])
+  ax[1].set_xticklabels([5, 10, 15, 20, 25, 30, 35])
+  ax[0].set_xticks([])
+  ax[0].set_xticklabels('')
   custom_lines = []
   legend_labels = []
   for maf_cnt, maf in enumerate([4, 4.5, 5, 5.5, 6]):
@@ -207,8 +209,10 @@ def plot_logistic_regression(natural_flows, tot_demands, unreg_inflows, predicti
   ax[1].text(5500000, 25000000, 'R*2 < 12.5maf: ' + str(int(rsquared_vals[2] * 1000) / 1000.0), fontsize = 10, horizontalalignment='left', verticalalignment='center', color = 'crimson')
   ax[1].text(5500000, 22500000, 'R*2 > 25maf: ' + str(int(rsquared_vals[3] * 1000) / 1000.0), fontsize = 10, horizontalalignment='left', verticalalignment='center', color = 'crimson')
   ax[1].set_xlabel('Lees Ferry Natural Flow')
-  ax[1].set_xticks([5000000, 10000000, 15000000, 20000000, 25000000, 30000000, 35000000, 40000000])
-  ax[1].set_xticklabels([5, 10, 15, 20, 25, 30, 35, 40])
+  ax[1].set_xticks([5000000, 10000000, 15000000, 20000000, 25000000, 30000000, 35000000])
+  ax[1].set_xticklabels([5, 10, 15, 20, 25, 30, 35])
+  ax[0].set_xticks([])
+  ax[0].set_xticklabels('')
   custom_lines = []
   legend_labels = []
   for maf_cnt, maf in enumerate([4, 4.5, 5, 5.5, 6]):

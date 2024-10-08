@@ -26,4 +26,11 @@ The following libraries are required for the project
 ```bash
 # for single run
 python -W ignore run_regression_analysis.py
+this script creates figures files and 'monthly_params.csv'
+each row in monthly_params.csv are the 6 parameters for each month
+that are read into UBDepletions.LogisticParameters (0 = January)
+these parameters are used to calibrate a function of the form
+UB Depletions =  Natural Flow - param1 * (1.0 - (1.0/(1 + e ^ (-1 * param3*( Natural Flow - param2)))))  - param4 * (Upper Basin Full Demand/(1 + e ^ (-1 * param6* (Natural Flow- param5))))
+this equation is usedto calibrate the monthly UB depletions slot 'UBDepletions.UBDepletionsEstimate'
+
 
