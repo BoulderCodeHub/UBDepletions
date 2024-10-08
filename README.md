@@ -24,11 +24,22 @@ The following libraries are required for the project
 ## Usage
 this script creates figures files and 'monthly_params.csv'
 generate parameter file with the command below
-each row in monthly_params.csv are the 6 parameters for each month
-that are read into UBDepletions.LogisticParameters (0 = January)
+monthly_params.csv has 12 rows and 6 columns
+the first row corresponds to January
+each row in monthly_params.csv contain 6 parameters, calibrated for individual months
+these parameters are copied into the table slot UBDepletions.LogisticParameters (also 12 x 6)
 these parameters are used to calibrate a function of the form
 UB Depletions =  Natural Flow - param1 * (1.0 - (1.0/(1 + e ^ (-1 * param3*( Natural Flow - param2)))))  - param4 * (Upper Basin Full Demand/(1 + e ^ (-1 * param6* (Natural Flow- param5))))
-this equation is usedto calibrate the monthly UB depletions slot 'UBDepletions.UBDepletionsEstimate'
+param1 is labeled Magnitude1 (first column)
+param2 is labeled Location1 (second column)
+param3 is labeled Scale1 (third column)
+param4 is labeled Magnitude2 (fourth column)
+param5 is labeled Location2 (fifth column)
+param6 is labeled Scale2 (sixth column)
+
+the table slot UbDepletions.LogisticParameters is used to
+evaluate expression slot 'UBDepletions.UBDepletionsEstimate'
+at the beginning of a CRSS run, this estimate is used within simulations for forecasting
 
 ```bash
 # for single run
