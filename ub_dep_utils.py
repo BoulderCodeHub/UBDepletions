@@ -105,7 +105,7 @@ def make_historical_regression_multi(independents, dependent, split_date):
     
   return predictions_pre1989, predictions_post1989, errors_pre1989, errors_post1989, [r2_pre1989, r2_post1989]
 
-def make_regression_inputs(year_range, num_traces):
+def make_regression_inputs(year_range, num_traces, ifolder):
   # read simulated data from all demand scenarios
   # need natural flow, ub demands, and unregulated inflow
   # actual powell inflows are calculated - can be used in place of unreg
@@ -118,23 +118,23 @@ def make_regression_inputs(year_range, num_traces):
   data_lists_monthly = {}
   input_filename_list = ['Computed State Depletions.UB Annual Normal.csv', 'TotVal.Powell.csv', 
                          'Powell.Inflow.csv', 'PowellForecastData.Unreg Inflow no Error.csv']
-  #demand_scenario_list = ['2016Dems', 'UB90prctDems', 'UB4mafDems', 'UB4.5mafDems', 'UB5mafDems', 'UB5.5mafDems', 'UB6mafDems']
-  demand_scenario_list = ['UB5.5mafDems', ]
+  demand_scenario_list = ['2016Dems', 'UB90prctDems', 'UB4mafDems', 'UB4.5mafDems', 'UB5mafDems', 'UB5.5mafDems', 'UB6mafDems']
+  #demand_scenario_list = ['UB5.5mafDems', ]
   input_labels = ['demands', 'nf', 'inflow', 'unreg_inflow']
   for lab in input_labels:
     data_lists[lab] = np.zeros((year_range[1] - year_range[0] + 1) * num_traces * len(demand_scenario_list))  
     data_lists_monthly[lab] = np.zeros(((year_range[1] - year_range[0] + 1) * num_traces * len(demand_scenario_list), 12))  
   for dmd_cnt, demand_use in enumerate(demand_scenario_list):
-    folder_read = os.path.join('data','robustness_data','policy_HR01,' + demand_use + ',CRMMS_mid_Trace30')
+    folder_read = os.path.join(ifolder, 'data','robustness_data','policy_HR01,' + demand_use + ',CRMMS_mid_Trace30')
     for file_read, input_key in zip(input_filename_list, input_labels):
       input_df_dict[input_key] = pd.read_csv(os.path.join(folder_read, file_read), index_col = 0)
       input_df_dict[input_key] = input_df_dict[input_key][pd.notna(input_df_dict[input_key]['Trace1'])]
       input_df_dict[input_key].index = pd.to_datetime(input_df_dict[input_key].index)
     input_df_dict_annual = {}
-    input_df_dict_annual['nf'] = input_df_dict['nf'].resample("Y").sum()
-    input_df_dict_annual['inflow'] = input_df_dict['inflow'].resample("Y").sum()
-    input_df_dict_annual['unreg_inflow'] = input_df_dict['unreg_inflow'].resample("Y").sum()
-    input_df_dict_annual['demands'] = input_df_dict['demands'].resample("Y").sum()
+    input_df_dict_annual['nf'] = input_df_dict['nf'].resample("YE").sum()
+    input_df_dict_annual['inflow'] = input_df_dict['inflow'].resample("YE").sum()
+    input_df_dict_annual['unreg_inflow'] = input_df_dict['unreg_inflow'].resample("YE").sum()
+    input_df_dict_annual['demands'] = input_df_dict['demands'].resample("YE").sum()
     for year_use in range(year_range[0], year_range[1] + 1):
       for trace_no in range(0, num_traces):
         datetime_index = datetime.datetime(year_use, 12, 31, 0, 0)

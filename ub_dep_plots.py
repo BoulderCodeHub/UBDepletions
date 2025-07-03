@@ -4,6 +4,7 @@ from matplotlib.lines import Line2D
 from matplotlib import cm, colors
 import seaborn as sns
 from scipy.stats import gaussian_kde
+import os
 
 def label_historical_regressions(ax_to_label, r2_vals, color_list, label_list):
   ax_to_label.set_ylabel('Unregulated Powell Inflow, 1963-2020 (obs, maf/yr)')
@@ -43,15 +44,15 @@ def label_error_plots(ax_label, cbar_label):
   ax_label.set_facecolor('gainsboro')
   return ax_label, cbar_label
   
-def plot_historical_regression(predictions, r2, independents, dependent):
+def plot_historical_regression(predictions, r2, independents, dependent, fig_path):
   fig, ax = plt.subplots()
   ax.plot(dependent, independents[:], marker = 'o', markerfacecolor = 'slategray',  markeredgecolor = 'black', markersize = 10, linewidth = 1, color = 'none')
   ax.plot(predictions, independents[:], color = 'black', linewidth = 2.5)
   ax = label_historical_regressions(ax, [r2, ], ['black',], ['Historical Regression',])
-  plt.savefig('figures/nf_unreg_historical_regression_single.png')
+  plt.savefig(os.path.join(fig_path, 'nf_unreg_historical_regression_single.png'))
   plt.close()
 
-def plot_historical_regression_multiperiod(predictions_pre1989, predictions_post1989, rsquared_vals, independents, dependent, split_date):
+def plot_historical_regression_multiperiod(predictions_pre1989, predictions_post1989, rsquared_vals, independents, dependent, split_date, fig_path):
   fig, ax = plt.subplots()
   split_idx = split_date - 1963
   color_year = sns.color_palette('RdYlBu', len(dependent))
@@ -60,10 +61,10 @@ def plot_historical_regression_multiperiod(predictions_pre1989, predictions_post
   ax.plot(predictions_pre1989, independents[:split_idx], color = 'indianred', linewidth = 2.5)
   ax.plot(predictions_post1989, independents[split_idx:], color = 'steelblue', linewidth = 2.5)
   ax = label_historical_regressions(ax, rsquared_vals, ['indianred', 'steelblue'], ['Historical Regression, Pre-1989', 'Historical Regression, Post-1989'])
-  plt.savefig('figures/nf_unreg_historical_regression_multi.png')
+  plt.savefig(os.path.join(fig_path, 'nf_unreg_historical_regression_multi.png'))
   plt.close()
   
-def plot_historical_errors(errors, errors_pre1989, errors_post1989, independents, dependent, period = 'single'):
+def plot_historical_errors(errors, errors_pre1989, errors_post1989, independents, dependent, period = 'single', fig_path=''):
   density = gaussian_kde(errors)
   value_range = np.linspace(-2000000, 2000000, 300)
   total_density = density(value_range)
@@ -90,10 +91,10 @@ def plot_historical_errors(errors, errors_pre1989, errors_post1989, independents
   ax.set_xticklabels([-2, -1, 0, 1, 2])
   ax.set_yticks([])
   ax.set_yticklabels('')
-  plt.savefig('figures/nf_unreg_historical_errors_' + period + '.png')
+  plt.savefig(os.path.join(fig_path, 'nf_unreg_historical_errors_' + period + '.png'))
   plt.close()
 
-def plot_demand_nf_regression(natural_flows, tot_demands, unreg_inflows, predictions, rsquared_vals):
+def plot_demand_nf_regression(natural_flows, tot_demands, unreg_inflows, predictions, rsquared_vals, fig_path):
   fig, ax = plt.subplots()
   color_demand = sns.color_palette('rocket', 5)
   for x in range(0, len(unreg_inflows)):
@@ -121,10 +122,10 @@ def plot_demand_nf_regression(natural_flows, tot_demands, unreg_inflows, predict
   ax.set_ylim([0, 35000000])
   ax.set_xlim([4750000, 35000000])
   ax.set_facecolor('gainsboro')
-  plt.savefig('figures/nf_unreg_regression.png')
+  plt.savefig(os.path.join(fig_path, 'nf_unreg_regression.png'))
   plt.close()
   
-def plot_demand_nf_errors(natural_flows, tot_demands, unreg_inflows, errors, val_range):
+def plot_demand_nf_errors(natural_flows, tot_demands, unreg_inflows, errors, val_range, fig_path):
   fig, ax = plt.subplots()
   min_val = val_range[0] * 1.0
   range_val = val_range[1] - val_range[0]
@@ -136,11 +137,11 @@ def plot_demand_nf_errors(natural_flows, tot_demands, unreg_inflows, errors, val
   norm = colors.Normalize(-2, 2)
   cbar = fig.colorbar(cm.ScalarMappable(norm=norm, cmap=cmap), ax=ax)
   ax, cbar = label_error_plots(ax, cbar)
-  plt.savefig('figures/nf_unreg_errors.png')
+  plt.savefig(os.path.join(fig_path, 'nf_unreg_errors.png'))
   plt.close()
 
 
-def plot_demand_nf_regression_multivariate(natural_flows, tot_demands, unreg_inflows, predictions, rsquared_vals):
+def plot_demand_nf_regression_multivariate(natural_flows, tot_demands, unreg_inflows, predictions, rsquared_vals, fig_path):
   fig, ax = plt.subplots(2)
   color_demand = sns.color_palette('rocket', 5)
   for x in range(0, len(unreg_inflows)):
@@ -171,10 +172,10 @@ def plot_demand_nf_regression_multivariate(natural_flows, tot_demands, unreg_inf
     custom_lines.append(Line2D([0], [0], marker = 'o', markerfacecolor = color_demand[maf_cnt], markeredgecolor = 'black', color = 'none', lw = 0))
     legend_labels.append(str(maf) + 'maf')
   ax[0].legend(list(reversed(custom_lines)), list(reversed(legend_labels)), loc = 'upper left',ncol=2, prop={'size': 10})
-  plt.savefig('figures/nf_unreg_regression_multivariate.png')
+  plt.savefig(os.path.join(fig_path, 'nf_unreg_regression_multivariate.png'))
   plt.close()
 
-def plot_demand_nf_errors_multivariate(natural_flows, tot_demands, unreg_inflows, errors, val_range):
+def plot_demand_nf_errors_multivariate(natural_flows, tot_demands, unreg_inflows, errors, val_range, fig_path):
   fig, ax = plt.subplots()
   color_demand = sns.color_palette('RdYlBu', 101)
   min_val = val_range[0] * 1.0
@@ -186,10 +187,10 @@ def plot_demand_nf_errors_multivariate(natural_flows, tot_demands, unreg_inflows
   norm = colors.Normalize(-2, 2)
   cbar = fig.colorbar(cm.ScalarMappable(norm=norm, cmap=cmap), ax=ax)
   ax, cbar = label_error_plots(ax, cbar)
-  plt.savefig('figures/nf_unreg_errors_multivariate.png')
+  plt.savefig(os.path.join(fig_path, 'nf_unreg_errors_multivariate.png'))
   plt.close()
 
-def plot_logistic_regression(natural_flows, tot_demands, unreg_inflows, predictions, rsquared_vals): 
+def plot_logistic_regression(natural_flows, tot_demands, unreg_inflows, predictions, rsquared_vals, fig_path): 
   fig, ax = plt.subplots(2)
   color_demand = sns.color_palette('rocket', 5)
   for x in range(0, len(unreg_inflows)):
@@ -219,10 +220,10 @@ def plot_logistic_regression(natural_flows, tot_demands, unreg_inflows, predicti
     custom_lines.append(Line2D([0], [0], marker = 'o', markerfacecolor = color_demand[maf_cnt], markeredgecolor = 'black', color = 'none', lw = 0))
     legend_labels.append(str(maf) + 'maf')
   ax[0].legend(list(reversed(custom_lines)), list(reversed(legend_labels)), loc = 'upper left',ncol=2, prop={'size': 10})
-  plt.savefig('figures/nf_unreg_regression_logistic.png')
+  plt.savefig(os.path.join(fig_path, 'nf_unreg_regression_logistic.png'))
   plt.close()
   
-def plot_logistic_error(natural_flows, tot_demands, unreg_inflows, errors, val_range): 
+def plot_logistic_error(natural_flows, tot_demands, unreg_inflows, errors, val_range, fig_path): 
   fig, ax = plt.subplots()
   min_val = val_range[0] * 1.0
   range_val = val_range[1] - val_range[0]
@@ -234,5 +235,5 @@ def plot_logistic_error(natural_flows, tot_demands, unreg_inflows, errors, val_r
   norm = colors.Normalize(-2, 2)
   cbar = fig.colorbar(cm.ScalarMappable(norm=norm, cmap=cmap), ax=ax)
   ax, cbar = label_error_plots(ax, cbar)
-  plt.savefig('figures/nf_unreg_errors_logistic.png')
+  plt.savefig(os.path.join(fig_path, 'nf_unreg_errors_logistic.png'))
   plt.close()
